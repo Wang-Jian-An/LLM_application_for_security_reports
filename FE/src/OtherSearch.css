@@ -1,0 +1,6 @@
+.graph-container {
+    display: flex;
+    gap: 3em;
+    justify-content: center; 
+    flex-direction: row;
+}

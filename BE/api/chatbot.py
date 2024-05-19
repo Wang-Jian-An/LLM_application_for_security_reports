@@ -35,7 +35,10 @@ def response():
     output_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), "invoke-model-output.json")
 
     # 把資料從 mongodb 拿出來
-    dataset_from_vector_store = find_data_from_mongodb()
+    dataset_from_vector_store = find_data_from_mongodb(
+        db_name = "mydatabase",
+        collection_name = "vectors"
+    )
     # dataset_embedding = [
     #     j["embedding"]
     #     for i in dataset_from_vector_store

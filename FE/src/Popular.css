@@ -1,0 +1,15 @@
+.new-update {
+    padding: 5% 5% 5% 5%;
+    width: 20em;
+    border-style: ridge;
+    border-color: black;
+    
+    
+}
+
+.button-list {
+    display: flex;
+    gap: 3px;
+    justify-content: center; 
+    flex-direction: row;
+}
