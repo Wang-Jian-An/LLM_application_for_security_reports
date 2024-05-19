@@ -1,0 +1,5 @@
+model_id: "--model-id anthropic.claude-3-opus-20240229-v1:0"
+region: "--region us-west-2"
+popular_science_prompt:
+  basic: '英文翻譯：根據以下參考資料內容，請用很淺顯易懂的方式分享最常見的駭客攻擊手法，目標受眾是資訊初心者。'
+  professional: '英文翻譯：根據以下參考資料內容，請以具體清楚等方式詳細說明最常見的駭客攻擊手法，目標受眾是資訊安全人員。'

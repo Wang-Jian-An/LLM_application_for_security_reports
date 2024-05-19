@@ -3,6 +3,7 @@ from typing import List
 def messages_template(
     history: List[str],
     anthropic_version: str = "bedrock-2023-05-31",
+    system_reference: str = None
 ):
     
     messages = [
@@ -15,6 +16,20 @@ def messages_template(
         }
         for index, one_text in enumerate(history)
     ]
+
+    # 加入參考資料
+    if system_reference:
+        messages = [
+            {
+                "role": "system",
+                "content": {
+                    "type": "text",
+                    "text": system_reference
+                }
+            },
+            *messages
+        ]
+
     body = {
         "messages": messages,
         "anthropic_version": anthropic_version,
