@@ -1,0 +1,33 @@
+.inputTaskTitle {
+    width: 30em;
+    height: 300px;
+    background: #F2F2F2;
+    margin: 0px auto;
+    text-align: center; 
+    border-bottom: solid 3px #C8C8C8;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+}
+
+.taskTitle {
+    background: #F2F2F2;
+    border: none;
+    height: 240px;
+    width: 30em;
+    font-size: 24px;
+    white-space:pre-wrap;
+
+}
+
+.taskTitle::placeholder {
+    text-align: center; /* 仅 placeholder 文本居中 */
+    position: absolute; /* 绝对定位 */
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 100%;
+    pointer-events: none; /* 使 placeholder 文本不可点击 */
+    height: 96px; /* 与 .taskTitle 的高度一致 */
+    line-height: 96px; /* 垂直居中 */
+}

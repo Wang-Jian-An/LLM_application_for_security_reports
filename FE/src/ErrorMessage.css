@@ -1,0 +1,17 @@
+.errormessage p {
+    background-color: rgb(253, 100, 100);
+    margin: auto;
+    font-size: 15px;
+    color: white;
+}
+
+.errormessage {
+    display: flex;
+    align-content: center;
+}
+
+
+
+
+
+    

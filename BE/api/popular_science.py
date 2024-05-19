@@ -32,7 +32,10 @@ def generate_popular_science_from_key_words():
     # Step0. 輸入資料集、收到關鍵字
     print(request.get_data(as_text = True))
     key_words = ast.literal_eval(request.get_data(as_text = True))["key_words"]
-    dataset_from_vector_store = find_data_from_mongodb()    
+    dataset_from_vector_store = find_data_from_mongodb(
+        db_name = "mydatabase",
+        collection_name = "vectors"
+    )    
 
     # Step1. 把關鍵字轉換成向量
     # Step2. 用關鍵字的向量找到前五筆最相近的報告資料
@@ -50,7 +53,7 @@ def generate_popular_science_from_key_words():
         dataset_content[i["corpus_id"]]
         for i in hist
     ]
-    reference_content = "\n-----\n".join(dataset_content)
+    reference_content = "\n------\n".join(dataset_content)
 
     # Step3. 給定一個主題與科普內容
     # 基礎版
@@ -73,6 +76,7 @@ def generate_popular_science_from_key_words():
         file_name = "invoke-model-output.json"
     )    
     basic_text = json_result["content"][0]["text"]
+    print(basic_text)
 
     # 專業版
     system_prompt = popular_science_professional_prompt + "\n" + reference_content
@@ -94,6 +98,7 @@ def generate_popular_science_from_key_words():
         file_name = "invoke-model-output.json"
     )        
     professional_text = json_result["content"][0]["text"]
+    print(professional_text)
     result = {
         "basic": basic_text,
         "professional": professional_text

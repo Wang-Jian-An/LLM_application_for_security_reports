@@ -1,0 +1,64 @@
+.close-obj-outer {
+    display: flex;
+    gap: 2em;
+    flex-direction: column;
+}
+
+.btn-close {
+   display: flex;
+   align-items: flex-end;
+   float: right;
+}
+
+.button-container {
+    align-items: center;
+    display: flex;
+    width:50em;
+    flex-direction: row;
+    gap: 5px;
+
+}
+
+.btn.btn-success.btn-lg.button-2 {
+    width: 300px;
+
+}
+
+.btn.btn-success.btn-lg.button-1 {
+    width: 100%;
+}
+
+.btn.btn-danger.btn-lg.button-1 {
+    width: 100%;
+}
+
+.btn.btn-warning.btn-lg.button-1 {
+    width: 100%;
+}
+
+.btn.btn-primary.btn-lg.button-1 {
+    width: 100%;
+}
+
+.btn.btn-outline-primary.btn-lg.button-1 {
+    width: 100%;
+}
+
+
+.btncustom {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 10px;
+  }
+  
+  /* Darker background on mouse-over */
+  .btncustom:hover {
+    background-color: RoyalBlue;
+  }
+
+#example-fasta {
+    color: white;
+}

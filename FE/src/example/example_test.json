@@ -1,0 +1,55 @@
+{
+    "nodes": [
+      {
+        "id": "Endpoints",
+        "isClusterNode": true,
+        "label": "Endpoints",
+        "rel_size": 180.0,
+        "size": 180,
+        "color": "#FFFFFF"
+      },
+      {
+        "cluster_id": "Endpoints",
+        "id": "ac29df91",
+        "label": "Operation Overtrap Targets Japanese Online Banking Users Via Bottle Exploit Kit and BrandNew Cinobi Banking Trojan",
+        "rank": 0.0054506184,
+        "degrees": 58
+      },
+      {
+        "cluster_id": "Endpoints",
+        "id": "0aae87f4",
+        "label": "New PowerShellbased Backdoor, MuddyWater Similarities",
+        "rank": 0.00456243611,
+        "degrees": 55
+      },
+      {
+        "id": "Articles, News, Reports",
+        "isClusterNode": true,
+        "label": "Articles, News, Reports",
+        "rel_size": 180.0,
+        "size": 180,
+        "color": "#FFFFFF"
+      },
+      {
+        "cluster_id": "ArticlesNewsReports",
+        "id": "ac29df91",
+        "label": "OperationOvertrapTargetsJapaneseOnlineBankingUsersViaBottleExploitKitandBrandNewCinobiBankingTrojan",
+        "rank": 0.006551059506184,
+        "degrees": 58
+      },
+      {
+        "cluster_id": "ArticlesNewsReports",
+        "id": "ded6c5b9",
+        "label": "RetailCyberattacksSettoSoarDuring2019Holidays",
+        "rank": 0.004562436119662425,
+        "degrees": 55
+      }      
+    ],
+    "edges": [
+      { "source": "Endpoints", "target": "ac29df91" },
+      { "source": "Endpoints", "target": "0aae87f4" },
+      { "source": "ArticlesNewsReports", "target": "ac29df91" },
+      { "source": "ArticlesNewsReports", "target": "ded6c5b9" }
+    ]
+  }
+  

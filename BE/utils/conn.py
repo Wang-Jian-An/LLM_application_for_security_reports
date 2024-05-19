@@ -5,8 +5,8 @@ def conn_mongo(func):
     def deco(*args, **kwargs):
         
         with MongoClient("mongodb://localhost:27017/") as client:
-            db = client["mydatabase"]
-            collection = db["vectors"]
+            db = client[kwargs["db_name"]]
+            collection = db[kwargs["collection_name"]]
             func(collection = collection, *args, **kwargs)
             return
     return deco
@@ -14,7 +14,8 @@ def conn_mongo(func):
 @conn_mongo
 def insert_to_mongodb(
     collection, 
-    vectors: List[Dict[str, List[float]]]
+    vectors: List[Dict[str, List[float]]],
+    **kwargs
 ) -> None:
     
     """
@@ -24,10 +25,13 @@ def insert_to_mongodb(
     collection.insert_many(vectors)
     return 
 
-def find_data_from_mongodb() -> List[Dict[str, str]]:
+def find_data_from_mongodb(
+    db_name: str,
+    collection_name: str
+) -> List[Dict[str, str]]:
 
     with MongoClient("mongodb://localhost:27017/") as client:
-        db = client["mydatabase"]
-        collection = db["vectors"] 
+        db = client[db_name]
+        collection = db[collection_name] 
         df = [i for i in collection.find()]
         return df

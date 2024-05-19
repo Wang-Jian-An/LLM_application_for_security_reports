@@ -1,0 +1,4307 @@
+{
+    "node": [
+        {
+            "id": "Endpoints",
+            "isClusterNode": true,
+            "label": "Endpoints",
+            "rel_size": 180.0,
+            "size": 180,
+            "color": "#FFFFFF"
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "ac29df91-240e-48c0-9a58-735ab1ae83f1",
+            "label": "Operation Overtrap Targets Japanese Online Banking Users Via Bottle Exploit Kit and Brand-New Cinobi Banking Trojan",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "0aae87f4-e572-491d-8451-88bad0cb6629",
+            "label": "New PowerShell-based Backdoor, MuddyWater Similarities",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "626038d5-421f-4589-b54f-7f2020879df1",
+            "label": "Patch Tuesday: Fixes for LNK, RDP, and Trident",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "7303920f-6963-4711-9fc7-b40658ca92e7",
+            "label": "New SLUB Backdoor Uses GitHub, Communicates via Slack",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "8bc199fc-c7d1-42b9-9dc0-e88ad61aee41",
+            "label": "CVE-2019-7238: RCE in Sonatype NXRM 3",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "be1d324b-6a5a-4986-a58f-93e893733014",
+            "label": "The Summit of Cybersecurity Sits Among the Clouds",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "04ada4e2-259b-4b17-bbfe-5c49f7b61462",
+            "label": "Remediating an RCE (CVE-2019-2729) in Oracle WebLogic",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "5f4cb4fe-b01f-4e1f-bd2f-fefff9ebdcbf",
+            "label": "TA505 Uses HTML, RATs, Other Techniques in Campaigns",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "4d68dbc3-e9d3-420b-b9b6-a4d716e0fb28",
+            "label": "CVE-2019-8635: Apple macOS Double Free Vulnerability",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "51ad1d96-9b52-4c9b-ba54-2450d1257e3c",
+            "label": "AESDDoS Botnet, Containers, Exposed Docker APIs",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "ceb29865-62ed-435c-aafe-55b82fda3f8b",
+            "label": "Outlaw's Botnet Spreads Miner, Perl-Based Backdoor",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "356cb7cb-17fc-4cb8-b2a3-c29e311fabd6",
+            "label": "CVE-2019-11815: A Cautionary Tale About CVSS Scores",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "483e99c2-8b44-4991-872f-da9be72afc16",
+            "label": "Patch Tuesday: Fixes for 'Wormable' Flaw, Zero-Day",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "00647bb2-e79b-483f-86e4-27fa187c4fb9",
+            "label": "Trickbot Watch: Arrival via Redirection URL in Spam",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "b5e39a82-8a18-4476-b94e-cdcd64cca8a9",
+            "label": "AESDDoS Botnet Exploits CVE-2019-3396 to Perform RCE",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "e3483835-3fdc-40ed-8801-bad4b8439bf5",
+            "label": "Analyzing Zero-Day XML XXE Injection Vulnerability",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "f19fddc2-4f9b-4921-b888-dbb2959a7ea2",
+            "label": "CVE-2019-0232: RCE Vulnerability in Apache Tomcat",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "50bcca3d-893b-4551-8538-8ac9496bbd16",
+            "label": "Patch Tuesday: Fixes for Two Exploited Vulnerabilities",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "f357b34b-2312-44c5-bf85-bb670a3cf9cb",
+            "label": "Miner Malware Uses Multiple Propagation Methods",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "dfb6bdc6-1e4e-4c05-9bf3-014bbee26291",
+            "label": "Potential Targeted Attack Uses AutoHotkey and Excel",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "db8abea3-c5eb-4d52-9e94-a18d38c4419e",
+            "label": "Windows, Android Users Targeted by Maikspy Spyware",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "4b64bffb-7082-49ad-9037-2c88838d2db7",
+            "label": "Phishing Campaign uses Hijacked Emails to Send URSNIF",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "34801fdb-11ef-428a-8713-993a34872320",
+            "label": "New File Types Emerge in Malware Spam Attachments",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "eb00a4cb-d93a-41ff-ab67-13e4e6e81f48",
+            "label": "UAF Bug Affects Internet Explorer, Runs Shellcode",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "01f70a08-fb18-4d35-96bb-ad499c777739",
+            "label": "RaaS Princess Evolution Looking for Affiliates",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "d9ed2614-d768-47b6-8ba8-b29edce4c304",
+            "label": "August Patch Tuesday: A Tale of Two Zero-Days",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "aa601940-ff3b-429c-a877-f6774296a851",
+            "label": "IQY, PowerShell Abused to Infect Users in Japan",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "d360058c-19ae-4495-b671-1e25036d19a7",
+            "label": "Phishers Use AES Encryption, Goes After Apple IDs",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "db098b9b-f6ad-40ad-beda-2da2ea23db2e",
+            "label": "Rig Abuses CVE-2018-8174 to Deliver Monero Miner",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "66f44c35-2ce5-4d28-bace-fefd5ff26381",
+            "label": "Confucius Update: New Techniques, More Patchwork Links",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "bc24cdff-74be-44e8-ab1e-54324d86a64b",
+            "label": "Cryptominers Target Patched 2017 Oracle WebLogic Bug",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "b6e3f84a-3159-4661-88e8-e87aececb997",
+            "label": "AnyDesk Bundled with New Ransomware Variant",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "1634932d-c97c-47da-b26e-b1f88851914c",
+            "label": "New Andariel Reconnaissance Tactics Uncovered",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "a050b006-97a9-4236-934a-2026ede4250b",
+            "label": "Brazilian Hackers Target IoT Devices With Malware",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "121220f9-1377-41ab-8856-532177dc74c5",
+            "label": "New MacOS Backdoor Linked to OceanLotus Found",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "78e0790b-d48a-4be1-ab23-cf28c5331fdd",
+            "label": "HiddenMiner Android Malware Can Cause Device Failure",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "2de201af-c6cc-417b-90b9-87fcb3d9a1a6",
+            "label": "Spam Campaign Drops Same RAT Distributed by Necurs",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "c197f269-e98b-4b84-881f-e2fdbff1bf76",
+            "label": "September Patch Tuesday: Windows Fixes ALPC Bug",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "37d98625-1038-4de4-b7be-294d7ca38da1",
+            "label": "A Closer Look at the Locky Poser, PyLocky Ransomware",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "53f48391-657f-46a5-9e4e-7cafa40ea6ee",
+            "label": "Viro Botnet Ransomware Breaks Through",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "7bded328-b936-41d5-afe2-ba7b23aa3c2c",
+            "label": "Drupal Bug Exploited to Deliver Monero-Mining Malware",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "fca41488-0e83-4c80-8c0b-e2696cb07295",
+            "label": "Potential MuddyWater Campaign uses PRB-Backdoor",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "f1d438d8-ba1d-4a85-9fd9-cfce4cd360b9",
+            "label": "Nozelesn and Emotet-Distributed Ransomware Loader",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "9acb2463-abd0-414e-bbcb-7318316679b6",
+            "label": "Examining Powload\u2019s Evolution",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "efbeaf8b-fd79-453a-a165-d2fc7133c5dc",
+            "label": "Phishing Campaign Steals Credentials Via Watering Hole",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "2eb99f4d-6bab-46ec-a3fa-e508bc77b9ae",
+            "label": "Malicious URLs in Office Documents' Embedded Videos",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "786aaacf-55df-499e-b448-f98a5140e382",
+            "label": "Pop-ups and Sites Push Botnets, Miners and Ransomware",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "35954a7f-c176-41c6-94d0-0a8c059b7bdf",
+            "label": "KillDisk Variant Hits Latin American Financial Groups",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "84830460-d784-4be1-a858-116e7a75112a",
+            "label": "Deciphering Confucius\u2019 Cyberespionage Operations",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "d39cb227-7ca6-41a4-8a6d-0dde3b1ce765",
+            "label": "Fileless Banking Trojan Downloads Info Stealers",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "db4e6b2a-adca-4a24-aa6f-8a1ebd2abb6c",
+            "label": "Outlaw Updates: Kill Old Miner Versions, Target More",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "d6f349f6-01d8-41fb-ad8b-e06edf68b89b",
+            "label": "3 Ways for MSPs to Increase Managed Security Footprint",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "fe310b21-4b67-440c-aa2e-b4d209aba0e0",
+            "label": "Decrypting What Zero Trust Is and What It Likely Isn't",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "8b9bf3bb-38bd-48cc-84e3-cd754bf7bd37",
+            "label": "Trend Micro Named Endpoint Protection Platforms Leader",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "be9497c0-d8a5-4a6d-967c-431ea0657a11",
+            "label": "Catching the thief lurking in the shadow with EDR, MDR",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "59420212-a4c0-4c4b-b426-6371cc17c12d",
+            "label": "Trend Micro Unveils New Cloud Security Platform",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "7b37addd-65fc-42d8-976f-2a09ea8f34fa",
+            "label": "Why MSPs Must Go Beyond Endpoint Detection, Response",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "7269a0f1-18da-4180-a9ee-93b5b0c08b82",
+            "label": "Security Dive: Devices Supporting SCPI, VISA Protocols",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "cc0a913e-0457-4eb4-a004-8d1ff80423e9",
+            "label": "Patch Tuesday: LNK, Microsoft Word, SMBv3 Gets Patched",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "b5c83f10-de99-460a-8aa8-f972987b0ca9",
+            "label": "Gartner 2011 Hype Cycle for Cloud Computing ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "52d3f0c5-150e-47f0-8332-c6df711407f8",
+            "label": "Ambient Cloud News: Reverse-engineered Skype protocol ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "98306755-2a5c-41ff-bb93-5f125d238271",
+            "label": "Tropic Trooper\u2019s USBferry Targets Air-Gapped Networks",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "2949b773-6c5e-4441-8f41-fabd171fd97c",
+            "label": "Targeted Ransomware Attack Hits Taiwan Organizations",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "2c3f3c5c-45a7-4a16-8a94-3a1369d196bf",
+            "label": "Patch Tuesday: More Fixes for SharePoint, TLS, Runtime",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "9a0c178a-886a-4ebb-96d7-6ad18e06fea0",
+            "label": "Lazarus\u2019 MacOS Dacls RAT Shows Multi-Platform Ability",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "896f96aa-a292-412a-8243-14e63ab0fadb",
+            "label": "Obfuscated APT33 C&Cs Used for Narrow Targeting",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "8ec2e49e-663a-4b0d-aa21-8b74301f982a",
+            "label": "Attacks and Techniques Used Against WordPress Sites",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "e0ce00e5-871a-4d49-a18f-fdc70cef352b",
+            "label": "December Patch Tuesday: Fixes for components, RDP",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "ab1f57f9-f174-4874-afdd-419ea2745ae9",
+            "label": "Waterbear Returns, Uses API Hooking to Evade Security",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "6eb36ddf-49bf-423b-83d7-69b6650dbad9",
+            "label": "Mac Malware, Spoofs App, Steals User Information",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "d8a0081d-eac1-4d2b-bca3-7979073e9552",
+            "label": "BinDiff to Zero-Day: A POC Exploiting CVE-2019-1208",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "edc5e570-fe63-41a4-ae2e-632aab62a959",
+            "label": "September Patch Tuesday: RDP Vulns and Zero-Days",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "ba296b96-af67-4687-8ff4-3e29769c17a3",
+            "label": "Short October Patch Tuesday: 9 Critical Fixes Featured",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "eef78c4b-b94a-46d8-a6c5-0c0d5fcce85d",
+            "label": "CVE-2019-16928: Exim Vuln Exploit via EHLO Strings",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "03f6c9a1-379f-4cff-9d74-facd27d36f63",
+            "label": "Negasteal/Agent Tesla, Ave Maria Delivered via Malspam",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "2c0af65e-fc69-4e9b-8514-9d4229f8259d",
+            "label": "November Patch Tuesday: 74 Fixes Before Major Update",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "4b2697f2-edf7-45f2-adff-d9ff12ad6410",
+            "label": "New Capesand Exploit Kit Reuses Public Exploits, Tools",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "3f628ea8-4963-43d1-8509-aa11a6061671",
+            "label": "Heatstroke Used Multistage Phishing For Info Theft",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "b6f4ee07-5402-4db6-b64a-eb0f1c9dfd03",
+            "label": "Digmine Miner Spreading via Facebook Messenger",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "30530030-4335-4820-9a71-0cbfb5f09815",
+            "label": "How HTML Attachments and Phishing Are Used In BEC",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "c1aeb256-2842-444b-b9c8-b96bf20e0d0d",
+            "label": "Spam Campaign Delivers Cross-platform RAT Adwind",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "47cad3b3-194a-4fe2-9599-c646b04176db",
+            "label": "Cobalt Strikes Again, Spam Runs Target Russian Banks",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "2a46dbda-c9c1-414a-8069-146057c71fc0",
+            "label": "qkG Filecoder: Document-Encrypting Ransomware",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "54d97731-7c80-4cbb-af91-1d98125c6e15",
+            "label": "A Look at Locky Ransomware\u2019s Recent Spam Activities",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "f0572a90-e3e3-4e3d-965b-5efa46351be6",
+            "label": "New Macro Evasion Tactics Used in URSNIF Spam Mail",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "a0658556-c227-42fa-875f-9c6d481a94c2",
+            "label": "New GnatSpy Mobile Malware Family Discovered",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "d3ce11bf-11be-4ab0-980f-68f49001c213",
+            "label": "Massive WannaCry/Wcry Ransomware Attack Hits Countries",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "83693dc9-b3dc-4e4b-af98-6d1b2e5a7237",
+            "label": "Spam in Europe Uses Hover Action, Spreads Trojan",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "41e3fa48-6233-4737-ba65-5da8e0570b13",
+            "label": "Petya Ransomware Attack In Progress, Hits Europe",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "9f947305-a8bd-4d03-8a93-859064deca21",
+            "label": "Erebus Resurfaces as Linux Ransomware",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "00d7a6b8-7d10-478a-988c-3148562f5548",
+            "label": "AdGholas Campaign Employs Astrum Exploit Kit",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "b6caa893-8fb6-4daf-a671-0f38dc1faf6a",
+            "label": "After WannaCry, UIWIX Ransomware Follows Suit",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "f9da96ef-b4f7-4d87-883e-42f5492c11ff",
+            "label": "Monero Miner-Malware Uses RADMIN, MIMIKATZ to Infect",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "20efb734-b21d-4f59-ae8e-945faaacdce5",
+            "label": "Crysis Targets Australian, New Zealand Firms",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "3a598bfc-e138-4d7e-a3e5-d482886cba0f",
+            "label": "Patch Tuesday: Fixes for LNK, SMB, and SharePoint Bugs",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "93b3f8c9-c306-4e5a-ba4e-a0a7ddb5082c",
+            "label": "Winnti Abuses GitHub for C&C Communications",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "8c5ccf2b-1b27-49a6-9e75-58df7baa854d",
+            "label": "Updates on Quickly-Evolving ThiefQuest macOS Malware",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "4a06ab70-c992-4dda-a1f4-a53d8120695d",
+            "label": "XCSSET Mac Malware: Infects Xcode Projects, Uses 0Days",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Endpoints",
+            "id": "e1ed6dda-74ec-4bf4-86b2-7de4d6cda4a7",
+            "label": "Lazarus Campaign Uses Remote Tools, RATANKBA, and More",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "id": "IoT",
+            "isClusterNode": true,
+            "label": "IoT",
+            "rel_size": 180.0,
+            "size": 180,
+            "color": "#FFFFFF"
+        },
+        {
+            "cluster_id": "IoT",
+            "id": "9257779d-5426-40bf-8a9e-6a296bc47a11",
+            "label": "ThinkPHP Vulnerability Abused by Botnets",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "IoT",
+            "id": "7e49941d-ae8d-40a3-90cd-71c7c9b581cb",
+            "label": "New Mirai Variant Uses Multiple Exploits",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "IoT",
+            "id": "a6bf45d9-b022-452d-be31-d783263abe63",
+            "label": "Miori IoT Botnet Delivered via ThinkPH Exploit",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "IoT",
+            "id": "dd1341d0-9244-4fa0-ae13-85bb031964b9",
+            "label": "Perl-Based Shellbot Targets Organizations via C&C",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "IoT",
+            "id": "c3b83d14-b344-4c77-953e-aaa65e349f90",
+            "label": "Miner Malware Targets IoT, Offered in the Underground",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "IoT",
+            "id": "1c2df5e2-57db-4682-94ce-35136c10216a",
+            "label": "5G Could Compromise SIM Card-Dependent IoT Devices",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "IoT",
+            "id": "f9b45050-9eae-4c40-9c2c-a889eacd168a",
+            "label": "GPON Bugs Exploited for Mirai-like Scanning Activities",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "IoT",
+            "id": "8f0c16de-d3f8-455a-be79-527cd8748ee7",
+            "label": "Identifying Top Vulnerabilities in Networks",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "IoT",
+            "id": "6f8f6095-4e81-4b5c-b420-df005f62a71b",
+            "label": "VPNFilter-affected Devices Still Riddled with 19 Bugs",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "IoT",
+            "id": "a050b006-97a9-4236-934a-2026ede4250b",
+            "label": "Brazilian Hackers Target IoT Devices With Malware",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "IoT",
+            "id": "00ab7065-071f-4e41-8dc1-c0942beba859",
+            "label": "Challenges in Securing Connected Hospitals",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "IoT",
+            "id": "16b49150-077d-4552-8f0f-1dc8ce3cf820",
+            "label": "Mirai-like Scanning Detected in China, Targets Brazil",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "IoT",
+            "id": "35c1f5b4-5f1f-42cf-81b0-8bb1e8f57562",
+            "label": "IoT and Satellite Security in the Age of 5G",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "IoT",
+            "id": "cdc51672-5bfb-40ed-8295-7888c125ac61",
+            "label": "Exploit Kit \"Novidade\" Found Targeting Home Routers",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "IoT",
+            "id": "1e1ef8f8-fbd9-4fec-bd26-5925633d4af1",
+            "label": "Telecom Crimes Against the IoT and 5G",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "IoT",
+            "id": "db4e6b2a-adca-4a24-aa6f-8a1ebd2abb6c",
+            "label": "Outlaw Updates: Kill Old Miner Versions, Target More",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "IoT",
+            "id": "3f5de38f-f886-4993-a65b-92acf96c6785",
+            "label": "Answering IoT Security Questions for CISOs",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "IoT",
+            "id": "de9aeb7b-a20b-4850-839b-07647070bb8e",
+            "label": "Android GIF Hacks; Hospital Network Vulnerabilities",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "IoT",
+            "id": "09d36015-75a0-4cc7-84f1-e5fe49fecadf",
+            "label": "IoT Threats Discussed In The Cybercriminal Underground",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "IoT",
+            "id": "42c7c4ca-3b96-486c-8378-3f7243b602a5",
+            "label": "IoT Devices: A Target in Cybercriminal Underground",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "IoT",
+            "id": "b7491b29-9dfb-40b2-9490-18f53f704514",
+            "label": "Fake Apps on iOS, Google Play; Social Media Security ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "IoT",
+            "id": "be9497c0-d8a5-4a6d-967c-431ea0657a11",
+            "label": "Catching the thief lurking in the shadow with EDR, MDR",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "IoT",
+            "id": "0d41d5af-0c7b-4bf3-aef8-401a2cd0d33b",
+            "label": "Hacking LED Wristbands: A Recap of RF Security Basics",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "IoT",
+            "id": "eeaa1faf-f033-483f-ab5f-b9b3c8fd0391",
+            "label": "Industrial Router Risks in the Industry 4.0 Ecosystem",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "IoT",
+            "id": "64413a43-ecf3-4e82-9ffb-8ab220a218ea",
+            "label": "The Reigning King, Challengers of IP Camera Botnets",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "IoT",
+            "id": "6ffe7588-2c42-4c63-be09-b6d1f52fe352",
+            "label": "Perspectives Summary \u2013 What You Said",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "IoT",
+            "id": "43d03e0f-d1f1-455f-8c49-ee35723c22a4",
+            "label": "Probing Attempts on Home Routers Increase in 1H 2020",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "IoT",
+            "id": "ba7e567b-c1bc-463c-80be-837bc545862a",
+            "label": "Black Hat Trip Report \u2013 Trend Micro",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "IoT",
+            "id": "2d4f6c81-c6ef-4d51-96e5-c155d0bc740a",
+            "label": "This Week in Security News: 07/10/2020",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "IoT",
+            "id": "08f9b314-2e93-4cac-9a3b-66c272005f96",
+            "label": "It\u2019s time to put the brakes on connected car threats",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "IoT",
+            "id": "8ee09a95-8fda-4d68-af11-58d1cb084e85",
+            "label": "Mirai Botnet Attack IoT Devices via CVE-2020-5902",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "id": "Spam",
+            "isClusterNode": true,
+            "label": "Spam",
+            "rel_size": 180.0,
+            "size": 180,
+            "color": "#FFFFFF"
+        },
+        {
+            "cluster_id": "Spam",
+            "id": "00647bb2-e79b-483f-86e4-27fa187c4fb9",
+            "label": "Trickbot Watch: Arrival via Redirection URL in Spam",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Spam",
+            "id": "34801fdb-11ef-428a-8713-993a34872320",
+            "label": "New File Types Emerge in Malware Spam Attachments",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Spam",
+            "id": "aa601940-ff3b-429c-a877-f6774296a851",
+            "label": "IQY, PowerShell Abused to Infect Users in Japan",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Spam",
+            "id": "2de201af-c6cc-417b-90b9-87fcb3d9a1a6",
+            "label": "Spam Campaign Drops Same RAT Distributed by Necurs",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Spam",
+            "id": "9acb2463-abd0-414e-bbcb-7318316679b6",
+            "label": "Examining Powload\u2019s Evolution",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Spam",
+            "id": "2eb99f4d-6bab-46ec-a3fa-e508bc77b9ae",
+            "label": "Malicious URLs in Office Documents' Embedded Videos",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Spam",
+            "id": "3ad0c5bf-083e-40ab-839c-a1497258373f",
+            "label": "Operation Overtrap Targets Japanese Online Banking ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Spam",
+            "id": "03f6c9a1-379f-4cff-9d74-facd27d36f63",
+            "label": "Negasteal/Agent Tesla, Ave Maria Delivered via Malspam",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Spam",
+            "id": "c1aeb256-2842-444b-b9c8-b96bf20e0d0d",
+            "label": "Spam Campaign Delivers Cross-platform RAT Adwind",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Spam",
+            "id": "47cad3b3-194a-4fe2-9599-c646b04176db",
+            "label": "Cobalt Strikes Again, Spam Runs Target Russian Banks",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Spam",
+            "id": "54d97731-7c80-4cbb-af91-1d98125c6e15",
+            "label": "A Look at Locky Ransomware\u2019s Recent Spam Activities",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Spam",
+            "id": "f0572a90-e3e3-4e3d-965b-5efa46351be6",
+            "label": "New Macro Evasion Tactics Used in URSNIF Spam Mail",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Spam",
+            "id": "83693dc9-b3dc-4e4b-af98-6d1b2e5a7237",
+            "label": "Spam in Europe Uses Hover Action, Spreads Trojan",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Spam",
+            "id": "20efb734-b21d-4f59-ae8e-945faaacdce5",
+            "label": "Crysis Targets Australian, New Zealand Firms",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "id": "Video",
+            "isClusterNode": true,
+            "label": "Video",
+            "rel_size": 180.0,
+            "size": 180,
+            "color": "#FFFFFF"
+        },
+        {
+            "cluster_id": "Video",
+            "id": "56718633-6745-445c-adbf-01da59852775",
+            "label": "Trend Micro Acquires Cloud Conformity",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Video",
+            "id": "9285e1dd-836f-47d9-a32e-5a9c7c7e1eef",
+            "label": "A Beer-Side Video Chat about Consumerization",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "id": "Expert Perspective",
+            "isClusterNode": true,
+            "label": "Expert Perspective",
+            "rel_size": 180.0,
+            "size": 180,
+            "color": "#FFFFFF"
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "56718633-6745-445c-adbf-01da59852775",
+            "label": "Trend Micro Acquires Cloud Conformity",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "426427c3-cb87-4401-b57d-01de89b368e2",
+            "label": "New Trend Micro XDR Center; EU 5G Cybersecurity Risks",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "fa89c3ad-a7f6-4229-acee-d55354518ba3",
+            "label": "Trend Micro Discloses Insider Threat ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "67466d2e-9ee1-4aad-ae56-725f7445a4e2",
+            "label": "Accelerating PCI Data Security Standard Projects ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "01ce7e9a-18a5-4cfe-bafa-23e0ef8b0199",
+            "label": "Pwn2Own Adds Industrial Control Systems to Contest ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "e0e7cba3-5af2-4b8b-9bde-22d850e60a5c",
+            "label": "There's a skills shortage; it's not your real problem",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "79c4956e-4279-48cd-8281-d033f058c466",
+            "label": "Will XDR Improve Security?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "a033d862-2fa1-47b4-a43c-08697b20e980",
+            "label": "XDR Needs Network Data and Here's Why",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "7025407b-0e47-44b8-9fda-be467b7bebda",
+            "label": "Digital skimmers: Keeping card details safe online",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "59f2bacb-d2b0-4fac-9e32-30e6d6c9543c",
+            "label": "Magecart Attacks and Is Your Smart TV Spying on You?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "d5896e51-3506-4807-ba8d-b9f7fd7f8b81",
+            "label": "The Evolution of Targeted Attacks in a Web 3.0 World",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "2ee0a3bf-e931-48b6-b51e-0d9f91dc4eab",
+            "label": "Agentless Security for Virtualization: in the Cloud?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "cc47aa8d-e11e-482b-b84e-59ee72a6fbce",
+            "label": "Ambient Cloud: Two approaches to securing the cloud",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "ded6c5b9-5be3-456d-b7ea-d21a1d2fc056",
+            "label": "Retail Cyberattacks Set to Soar During 2019 Holidays",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "2071d27d-3800-4554-9707-4111fce0461c",
+            "label": "Microsoft Celebration at the Security 20/20 Awards",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "be1d324b-6a5a-4986-a58f-93e893733014",
+            "label": "The Summit of Cybersecurity Sits Among the Clouds",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "98d21445-9825-4033-82f8-e8788daff431",
+            "label": "First Patch Tuesday Update; Pwn2Own Vancouver Date",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "e0b8f77b-4d4d-40b5-906e-04776b809f8d",
+            "label": "Secure Your Smartphone with Preventative Measures",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "59b0d1c7-f4a6-4a62-937a-42c9344720cd",
+            "label": "The other side of the Cloud Encryption Coin",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "cc8feef6-a7d7-4110-8d28-bfd3142f22a8",
+            "label": "In Identity Theft the Target is You!",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "d6f349f6-01d8-41fb-ad8b-e06edf68b89b",
+            "label": "3 Ways for MSPs to Increase Managed Security Footprint",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "a9418221-c9a8-4b6a-938a-87dddf2a1da7",
+            "label": "Tackling the BEC Epidemic in Partnership with INTERPOL",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "3f5de38f-f886-4993-a65b-92acf96c6785",
+            "label": "Answering IoT Security Questions for CISOs",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "5ca328df-ca36-4890-8566-37f4e77572e3",
+            "label": "Partnership Advances DevSecOps, Cybersecurity Issues ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "bc420301-7cff-4a51-8cf5-c07fe031e085",
+            "label": "The Shared Responsibility Model",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "fe310b21-4b67-440c-aa2e-b4d209aba0e0",
+            "label": "Decrypting What Zero Trust Is and What It Likely Isn't",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "b5735d43-b563-478f-9ab2-f935e5c69684",
+            "label": "The Strategic Trend Micro and Snyk Partnership",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "de9aeb7b-a20b-4850-839b-07647070bb8e",
+            "label": "Android GIF Hacks; Hospital Network Vulnerabilities",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "c69db56f-3c1d-40d9-b68a-eb93d6bd24d7",
+            "label": "Trend Micro Acquires Cloud Conformity; iOS App Removal",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "09d36015-75a0-4cc7-84f1-e5fe49fecadf",
+            "label": "IoT Threats Discussed In The Cybercriminal Underground",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "97f1768f-861c-4544-a021-e3541e295fb3",
+            "label": "Zero-Day Vulnerability Findings, Mobile Phishing Scams",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "42c7c4ca-3b96-486c-8378-3f7243b602a5",
+            "label": "IoT Devices: A Target in Cybercriminal Underground",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "8311e2e5-7ef0-47dc-8646-1695e160b1a8",
+            "label": "Beyond The Standard CISO Cloud Security Guide",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "5ebfbcca-92c1-43d5-95df-06c909d072ee",
+            "label": "Why Should CISOs Care About XDR?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "b7491b29-9dfb-40b2-9490-18f53f704514",
+            "label": "Fake Apps on iOS, Google Play; Social Media Security ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "87a1ea4f-6752-4252-a862-7b88a4ffb35d",
+            "label": "DevOps Implementation Concerns and Malware Variants",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "64b4f9fc-cd11-4226-8f5b-d09385362b3b",
+            "label": "Innovate or Die?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "b7d69cc1-0ee9-4590-aa4a-22727428958c",
+            "label": "Ransomware Campaigns and Cryptocurrency Miners",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "b9857918-0ef3-4507-bdc6-023e0c56a10d",
+            "label": "Phishing Campaigns and a Biometric Data Breach",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "906b7343-9ef4-4f9b-bcff-c5f2a2f74e5a",
+            "label": "Ransomware Campaigns and Cryptocurrency Miners",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "b62587d9-7afe-4fba-a045-1e5f10036a9a",
+            "label": "How Do Threats Align With Detection And Solutions?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "c56b8a1e-d713-4fed-9b0f-c45fa0b46eed",
+            "label": "Ransomware Campaigns and Cryptocurrency Miners",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "3af1d62a-df1d-4411-a725-53847d27af22",
+            "label": "Cyberattack Lateral Movement Explained",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "c4a5aecf-8d35-40d3-a195-a8669041ceb5",
+            "label": "XDR: The Best Remedy As Attackers Seek To Evade EDR",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "8b9bf3bb-38bd-48cc-84e3-cd754bf7bd37",
+            "label": "Trend Micro Named Endpoint Protection Platforms Leader",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "be9497c0-d8a5-4a6d-967c-431ea0657a11",
+            "label": "Catching the thief lurking in the shadow with EDR, MDR",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "08f1f34a-dab9-4931-9df0-c6fab989c313",
+            "label": "Windows Server 2008 End of Support: Are you Prepared?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "b065553d-7307-4d00-8a71-2d2608f63fd2",
+            "label": "Security News: Unpatched Systems and Lateral Phishing",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "fbe74d21-0758-40a8-b8b4-c32ef45ff4f2",
+            "label": "How Can I Keep My Kids Safe Online?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "cfa96b20-1dfd-42ce-ab32-d095dfe8c61e",
+            "label": "Stalking the Stalkerware",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "59420212-a4c0-4c4b-b426-6371cc17c12d",
+            "label": "Trend Micro Unveils New Cloud Security Platform",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "2c944491-6dd9-459e-b4d2-2e1a9888d5bd",
+            "label": "Trend Micro launches Trend Micro Cloud One",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "aa3e911e-67e6-400f-be1f-bcea1d205576",
+            "label": "Amazon Echo Hacked; Ransomeware Attacks",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "75dc78b3-c8cb-4ddd-a047-f1e8c172aec9",
+            "label": "Skimming and Phishing Scams Ahead of Black Friday ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "f22eb63f-17d9-4d96-b0da-a26c8d85e4a7",
+            "label": "Be An Informed Skeptic About Security Predictions",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "7b37addd-65fc-42d8-976f-2a09ea8f34fa",
+            "label": "Why MSPs Must Go Beyond Endpoint Detection, Response",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "08fb4842-5ae3-4218-a98b-f13814d28b88",
+            "label": "APT33 Botnets Used for Extreme Narrow Targeting ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "8fb95012-e970-41a3-9c91-0256f0d35772",
+            "label": "Trend Micro Selected as Launch Partner and more",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "637b9216-6d0a-45ac-b711-f6e966b5e383",
+            "label": "Network security simplified ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "3eb46620-7ea0-4b45-a440-88ce8164af40",
+            "label": "What Worries CISOs Most In 2019",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "5fb0ebdf-b5ad-4acb-bd48-fb9efa123fdc",
+            "label": "Microsoft vs. Amazon in the Cloud and more",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "8f6b5428-1733-43ee-96c5-7318dd6fb833",
+            "label": "How To Get The Most Out Of Industry Analyst Reports",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "b2aa9638-5b04-4085-b932-a3dd78bc86bc",
+            "label": "TweetChat: Advanced Persistent Threats",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "17958573-b273-4b79-8b30-8f70de4d7b0b",
+            "label": "An Advanced Persistent Response to Targeted Attacks",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "aa019925-ec31-43fb-a6cd-87d2f4f09079",
+            "label": "Who is responsible for security in the Ambient Cloud?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "97182fd5-2e5d-4618-be48-80b0cbfc2219",
+            "label": "Cloud Data Destruction: Is Your Old Data Still There?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "02fa7b4e-b1fe-4bcd-8cf1-77723598d35b",
+            "label": "Why the Silicon Valley Moved East",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "3188fcb2-d649-44d1-b759-6740e0ed6958",
+            "label": "Averting a \u2018Crisis\u2019 for your VMware environment",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "bcc0e8ac-3ef8-4d74-b73b-f6e2ef1a044f",
+            "label": "25 Billion Cloud-Connected Devices to Come",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "66ef5463-5f96-43c1-932e-627dc7156e63",
+            "label": "Join the conversation: Blog@ Trend Micro",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "4fafbcb2-7f15-44c4-90d2-c4c173a1e44b",
+            "label": "Was Your Smart Phone on the Leaked FBI List?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "e765a2cc-6a57-4c0b-b1c3-11b16fced931",
+            "label": "Google and VirusTotal: A win for the security industry",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "54b463ce-fecb-4ed7-b38b-83a548bb0f5f",
+            "label": "UDID Primer: Breaking down Apple\u2019s leaky situation",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "7a9b6ff7-b963-44aa-a4ba-6ed80ffd9eb8",
+            "label": "Four Things That Won\u2019t Bring the Internet Down and Why",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "52785d74-1d64-4948-a323-74d57ca81158",
+            "label": "The Importance of Continuous Monitoring",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "6695eea2-e3b1-46f6-bf64-700b21b58b61",
+            "label": "The hidden cost of the \"hottest gadget\"",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "e4b8fc59-6c17-412a-99bb-5a1976168f96",
+            "label": "Jelly Bean looks sexy. But is it going to help BYOD?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "36cb1cfd-951e-471f-9421-aa895863f337",
+            "label": "10 Steps to Securing Your Journey to the Cloud",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "abcabcee-f99b-4a86-863d-c4e593e8f70f",
+            "label": "Cloud \u2013 a Tipping Point for VDI Investment?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "1dbcea1b-f7f8-455a-b873-3b775d62d5e2",
+            "label": "Future of Cloud Computing with Dell, VMware, etc.",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "1cacfe7b-f5f4-4c4e-9e75-003f07e94ba6",
+            "label": "Top 30 Most Popular Passwords Stolen from LinkedIn",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "81b18775-bf8f-4876-bbb1-f9224f308a91",
+            "label": "Trend Micro Recognized as #1 in Cloud Security",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "66883cc8-ca7d-4926-afe9-2dba0b0f35de",
+            "label": "Hacking the Mexican Pork Cloud Conspiracy ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "35a8dd8f-72f8-49c7-8740-0aa2b1ef8758",
+            "label": "How to Stay Safe as Online Coronavirus Scams Spread",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "67c2084c-8946-4886-b0d3-5157c5d928b6",
+            "label": "Smart Check Validated for New Bottlerocket OS",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "ab8fe465-8b67-4c8f-a7fd-ba46ff3038cf",
+            "label": "Trend Micro COO: Customer Commitment During COVID-19",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "10dac97b-b6e3-47b1-a64a-63d67368fc23",
+            "label": "Trend Micro Cloud App Security Blocked Email Threats ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "e37be596-674b-4600-b1d3-23d388631984",
+            "label": "Suddenly Teleworking, Securely",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "3ad0c5bf-083e-40ab-839c-a1497258373f",
+            "label": "Operation Overtrap Targets Japanese Online Banking ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "0b8f6c4e-2dd0-48d5-b0ca-33a0e0fef1af",
+            "label": "Trend Micro Detects 10% Rise in Ransomware in 2019",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "ca30fd1e-ebfc-4587-ad71-9ba30da2da81",
+            "label": "ZDI Bug Hunters Rake in $1.5 M",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "64257343-d091-46a5-aa8a-59cc8d72f64b",
+            "label": "Hackers Expand, Trend Micro Blocks 52 Billion Threats ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "a022c830-fafc-4c78-b738-033e9c21a15f",
+            "label": "INTERPOL Collaboration Reduces Cryptojacking by 78%",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "b8af7a95-1bb3-489e-a697-31a3d582a908",
+            "label": "WordPress Accounts Compromised; Facebook Settles Case",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "b4dcc6ec-1369-4d2f-87c8-1786e9e18679",
+            "label": "Free tool to patch against Vulnerability CVE-2020-0601",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "59e8b86e-8730-4b87-a070-6f52e9c6d4ff",
+            "label": "INTERPOL Collaboration Reduces Cryptojacking by 78% ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "33a2fcca-58cb-4c96-861b-d429f97648a5",
+            "label": "Trend Micro Creates Factory Honeypot to Trap Attackers",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "611eb296-7f36-4669-a67c-ecc1241ea43a",
+            "label": "Elevated Cyber Attack Risk; Wyze Exposes Customer Info",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "a9d8f912-a8cf-479a-ade4-3f81f3903cd8",
+            "label": "A New Playground for Cybercrime: Software Development",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "fdf4b133-a83f-4574-9019-cb31806a63e5",
+            "label": "Right Here, Right Now.... Not Yet",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "fd6d6ecb-15de-4494-b6d3-bd981a5f0ee7",
+            "label": "Consumerization U. Day 1: Consumerization is Disruptive",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "40c024a5-731e-46b6-b333-345c2190fd78",
+            "label": "Should We Control a Submarine From the Cloud? ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "b088b2e8-6a71-48c4-a077-fb9227a497b9",
+            "label": "Embrace Consumerization. Unlock Opportunity.",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "b5c83f10-de99-460a-8aa8-f972987b0ca9",
+            "label": "Gartner 2011 Hype Cycle for Cloud Computing ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "eb652e3d-39a0-4f2d-ab23-6864a614f493",
+            "label": "Matching Security to Your Cloud",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "9a348beb-ea27-4510-966e-21f9c0debc70",
+            "label": "Agentless Security Gets an \u201cA\u201d on Its Report Card",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "d57bc88c-7323-48ec-9acd-d0970c8f2751",
+            "label": "Why does VMware Downplay its PacketMotion Acquisition?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "4d9ec6c2-9cd3-4116-beee-d865c538a6ce",
+            "label": "\u201cHey, you, get off of iCloud\u201d",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "6b964606-f7e1-4e2d-a7f8-e4446fd32f61",
+            "label": "\"Hey, You, Get Off of iCloud!\"",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "c3d43afe-f555-4874-83fe-fa09f179574d",
+            "label": "Split Personality and The Mobility War!",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "52d3f0c5-150e-47f0-8332-c6df711407f8",
+            "label": "Ambient Cloud News: Reverse-engineered Skype protocol ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "0f58f580-4ed1-4093-bffb-87bff545824e",
+            "label": "The State of Cloud and Virtualization Security",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "237d1fc4-5536-44fa-8580-22b701ac36a4",
+            "label": "Riding the Consumerization Wave",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "fc3c4917-45f4-4d74-806e-3e4f775281b0",
+            "label": "Yes, Virginia, Consumerization is real",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "9e8badbe-c47c-44c9-a80b-56295f14d86f",
+            "label": "To embrace consumerization, embrace consumers",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "62a89c5d-5ced-48d0-b9a1-8d4c81b5fc4a",
+            "label": "Sleeping with the enemy?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "7462483d-2603-4343-90eb-857ea9b44da3",
+            "label": "What is NFC and What Are The Risks?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "a0fc4811-a399-498f-aa2d-e14fb9c539a2",
+            "label": "Encryption is Not Enough for Cloud Security",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "b59f8e92-856f-4c39-9e3a-ae4486f7639a",
+            "label": "Trend Micro Consumerization Report 2011",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "24ae723e-3490-47e5-abf0-758cb188818a",
+            "label": "What Are the True Dangers of the Cloud?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "aa75f8c6-ebd0-48f5-815f-62a74dfb3b13",
+            "label": "To Jailbreak or Not to Jailbreak? That is the Question",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "0a2247ce-d67e-4d90-96ba-34b056d25052",
+            "label": "Shift Well-Architecture Left. Security Will Follow",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "6a6c24e6-a861-4c5e-ba9d-d4d18a9c5dc9",
+            "label": "What if your Cloud Service Provider folds?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "9285e1dd-836f-47d9-a32e-5a9c7c7e1eef",
+            "label": "A Beer-Side Video Chat about Consumerization",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Expert Perspective",
+            "id": "b9d6061c-a2c4-46fc-a55d-65d9c7a09128",
+            "label": "Fixing cloud migration: What goes wrong and why?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "id": "Articles, News, Reports",
+            "isClusterNode": true,
+            "label": "Articles, News, Reports",
+            "rel_size": 180.0,
+            "size": 180,
+            "color": "#FFFFFF"
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "426427c3-cb87-4401-b57d-01de89b368e2",
+            "label": "New Trend Micro XDR Center; EU 5G Cybersecurity Risks",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "fa89c3ad-a7f6-4229-acee-d55354518ba3",
+            "label": "Trend Micro Discloses Insider Threat ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "67466d2e-9ee1-4aad-ae56-725f7445a4e2",
+            "label": "Accelerating PCI Data Security Standard Projects ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "01ce7e9a-18a5-4cfe-bafa-23e0ef8b0199",
+            "label": "Pwn2Own Adds Industrial Control Systems to Contest ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "e0e7cba3-5af2-4b8b-9bde-22d850e60a5c",
+            "label": "There's a skills shortage; it's not your real problem",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "59f2bacb-d2b0-4fac-9e32-30e6d6c9543c",
+            "label": "Magecart Attacks and Is Your Smart TV Spying on You?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "d5896e51-3506-4807-ba8d-b9f7fd7f8b81",
+            "label": "The Evolution of Targeted Attacks in a Web 3.0 World",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "2ee0a3bf-e931-48b6-b51e-0d9f91dc4eab",
+            "label": "Agentless Security for Virtualization: in the Cloud?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "ac29df91-240e-48c0-9a58-735ab1ae83f1",
+            "label": "Operation Overtrap Targets Japanese Online Banking Users Via Bottle Exploit Kit and Brand-New Cinobi Banking Trojan",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "ded6c5b9-5be3-456d-b7ea-d21a1d2fc056",
+            "label": "Retail Cyberattacks Set to Soar During 2019 Holidays",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "2071d27d-3800-4554-9707-4111fce0461c",
+            "label": "Microsoft Celebration at the Security 20/20 Awards",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "be1d324b-6a5a-4986-a58f-93e893733014",
+            "label": "The Summit of Cybersecurity Sits Among the Clouds",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "98d21445-9825-4033-82f8-e8788daff431",
+            "label": "First Patch Tuesday Update; Pwn2Own Vancouver Date",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "db8abea3-c5eb-4d52-9e94-a18d38c4419e",
+            "label": "Windows, Android Users Targeted by Maikspy Spyware",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "c3b83d14-b344-4c77-953e-aaa65e349f90",
+            "label": "Miner Malware Targets IoT, Offered in the Underground",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "e0b8f77b-4d4d-40b5-906e-04776b809f8d",
+            "label": "Secure Your Smartphone with Preventative Measures",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "d360058c-19ae-4495-b671-1e25036d19a7",
+            "label": "Phishers Use AES Encryption, Goes After Apple IDs",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "1c2df5e2-57db-4682-94ce-35136c10216a",
+            "label": "5G Could Compromise SIM Card-Dependent IoT Devices",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "db098b9b-f6ad-40ad-beda-2da2ea23db2e",
+            "label": "Rig Abuses CVE-2018-8174 to Deliver Monero Miner",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "f9b45050-9eae-4c40-9c2c-a889eacd168a",
+            "label": "GPON Bugs Exploited for Mirai-like Scanning Activities",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "8f0c16de-d3f8-455a-be79-527cd8748ee7",
+            "label": "Identifying Top Vulnerabilities in Networks",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "bc24cdff-74be-44e8-ab1e-54324d86a64b",
+            "label": "Cryptominers Target Patched 2017 Oracle WebLogic Bug",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "00ab7065-071f-4e41-8dc1-c0942beba859",
+            "label": "Challenges in Securing Connected Hospitals",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "35c1f5b4-5f1f-42cf-81b0-8bb1e8f57562",
+            "label": "IoT and Satellite Security in the Age of 5G",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "7bded328-b936-41d5-afe2-ba7b23aa3c2c",
+            "label": "Drupal Bug Exploited to Deliver Monero-Mining Malware",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "fca41488-0e83-4c80-8c0b-e2696cb07295",
+            "label": "Potential MuddyWater Campaign uses PRB-Backdoor",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "6020657a-ba50-4fd3-b395-3ef2a06e9f25",
+            "label": "FakeSpy Targets Japanese and Korean-Speaking Users",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "cc8feef6-a7d7-4110-8d28-bfd3142f22a8",
+            "label": "In Identity Theft the Target is You!",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "d6f349f6-01d8-41fb-ad8b-e06edf68b89b",
+            "label": "3 Ways for MSPs to Increase Managed Security Footprint",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "a9418221-c9a8-4b6a-938a-87dddf2a1da7",
+            "label": "Tackling the BEC Epidemic in Partnership with INTERPOL",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "3f5de38f-f886-4993-a65b-92acf96c6785",
+            "label": "Answering IoT Security Questions for CISOs",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "5ca328df-ca36-4890-8566-37f4e77572e3",
+            "label": "Partnership Advances DevSecOps, Cybersecurity Issues ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "bc420301-7cff-4a51-8cf5-c07fe031e085",
+            "label": "The Shared Responsibility Model",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "fe310b21-4b67-440c-aa2e-b4d209aba0e0",
+            "label": "Decrypting What Zero Trust Is and What It Likely Isn't",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "b5735d43-b563-478f-9ab2-f935e5c69684",
+            "label": "The Strategic Trend Micro and Snyk Partnership",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "de9aeb7b-a20b-4850-839b-07647070bb8e",
+            "label": "Android GIF Hacks; Hospital Network Vulnerabilities",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "c69db56f-3c1d-40d9-b68a-eb93d6bd24d7",
+            "label": "Trend Micro Acquires Cloud Conformity; iOS App Removal",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "09d36015-75a0-4cc7-84f1-e5fe49fecadf",
+            "label": "IoT Threats Discussed In The Cybercriminal Underground",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "97f1768f-861c-4544-a021-e3541e295fb3",
+            "label": "Zero-Day Vulnerability Findings, Mobile Phishing Scams",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "42c7c4ca-3b96-486c-8378-3f7243b602a5",
+            "label": "IoT Devices: A Target in Cybercriminal Underground",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "8311e2e5-7ef0-47dc-8646-1695e160b1a8",
+            "label": "Beyond The Standard CISO Cloud Security Guide",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "5ebfbcca-92c1-43d5-95df-06c909d072ee",
+            "label": "Why Should CISOs Care About XDR?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "b7491b29-9dfb-40b2-9490-18f53f704514",
+            "label": "Fake Apps on iOS, Google Play; Social Media Security ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "87a1ea4f-6752-4252-a862-7b88a4ffb35d",
+            "label": "DevOps Implementation Concerns and Malware Variants",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "64b4f9fc-cd11-4226-8f5b-d09385362b3b",
+            "label": "Innovate or Die?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "b7d69cc1-0ee9-4590-aa4a-22727428958c",
+            "label": "Ransomware Campaigns and Cryptocurrency Miners",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "b9857918-0ef3-4507-bdc6-023e0c56a10d",
+            "label": "Phishing Campaigns and a Biometric Data Breach",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "906b7343-9ef4-4f9b-bcff-c5f2a2f74e5a",
+            "label": "Ransomware Campaigns and Cryptocurrency Miners",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "b62587d9-7afe-4fba-a045-1e5f10036a9a",
+            "label": "How Do Threats Align With Detection And Solutions?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "c56b8a1e-d713-4fed-9b0f-c45fa0b46eed",
+            "label": "Ransomware Campaigns and Cryptocurrency Miners",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "3af1d62a-df1d-4411-a725-53847d27af22",
+            "label": "Cyberattack Lateral Movement Explained",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "c4a5aecf-8d35-40d3-a195-a8669041ceb5",
+            "label": "XDR: The Best Remedy As Attackers Seek To Evade EDR",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "8b9bf3bb-38bd-48cc-84e3-cd754bf7bd37",
+            "label": "Trend Micro Named Endpoint Protection Platforms Leader",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "be9497c0-d8a5-4a6d-967c-431ea0657a11",
+            "label": "Catching the thief lurking in the shadow with EDR, MDR",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "08f1f34a-dab9-4931-9df0-c6fab989c313",
+            "label": "Windows Server 2008 End of Support: Are you Prepared?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "b065553d-7307-4d00-8a71-2d2608f63fd2",
+            "label": "Security News: Unpatched Systems and Lateral Phishing",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "fbe74d21-0758-40a8-b8b4-c32ef45ff4f2",
+            "label": "How Can I Keep My Kids Safe Online?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "cfa96b20-1dfd-42ce-ab32-d095dfe8c61e",
+            "label": "Stalking the Stalkerware",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "59420212-a4c0-4c4b-b426-6371cc17c12d",
+            "label": "Trend Micro Unveils New Cloud Security Platform",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "2c944491-6dd9-459e-b4d2-2e1a9888d5bd",
+            "label": "Trend Micro launches Trend Micro Cloud One",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "aa3e911e-67e6-400f-be1f-bcea1d205576",
+            "label": "Amazon Echo Hacked; Ransomeware Attacks",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "75dc78b3-c8cb-4ddd-a047-f1e8c172aec9",
+            "label": "Skimming and Phishing Scams Ahead of Black Friday ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "f22eb63f-17d9-4d96-b0da-a26c8d85e4a7",
+            "label": "Be An Informed Skeptic About Security Predictions",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "7b37addd-65fc-42d8-976f-2a09ea8f34fa",
+            "label": "Why MSPs Must Go Beyond Endpoint Detection, Response",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "08fb4842-5ae3-4218-a98b-f13814d28b88",
+            "label": "APT33 Botnets Used for Extreme Narrow Targeting ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "8fb95012-e970-41a3-9c91-0256f0d35772",
+            "label": "Trend Micro Selected as Launch Partner and more",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "637b9216-6d0a-45ac-b711-f6e966b5e383",
+            "label": "Network security simplified ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "3eb46620-7ea0-4b45-a440-88ce8164af40",
+            "label": "What Worries CISOs Most In 2019",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "5fb0ebdf-b5ad-4acb-bd48-fb9efa123fdc",
+            "label": "Microsoft vs. Amazon in the Cloud and more",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "8f6b5428-1733-43ee-96c5-7318dd6fb833",
+            "label": "How To Get The Most Out Of Industry Analyst Reports",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "b2aa9638-5b04-4085-b932-a3dd78bc86bc",
+            "label": "TweetChat: Advanced Persistent Threats",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "17958573-b273-4b79-8b30-8f70de4d7b0b",
+            "label": "An Advanced Persistent Response to Targeted Attacks",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "aa019925-ec31-43fb-a6cd-87d2f4f09079",
+            "label": "Who is responsible for security in the Ambient Cloud?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "97182fd5-2e5d-4618-be48-80b0cbfc2219",
+            "label": "Cloud Data Destruction: Is Your Old Data Still There?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "02fa7b4e-b1fe-4bcd-8cf1-77723598d35b",
+            "label": "Why the Silicon Valley Moved East",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "3188fcb2-d649-44d1-b759-6740e0ed6958",
+            "label": "Averting a \u2018Crisis\u2019 for your VMware environment",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "bcc0e8ac-3ef8-4d74-b73b-f6e2ef1a044f",
+            "label": "25 Billion Cloud-Connected Devices to Come",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "66ef5463-5f96-43c1-932e-627dc7156e63",
+            "label": "Join the conversation: Blog@ Trend Micro",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "4fafbcb2-7f15-44c4-90d2-c4c173a1e44b",
+            "label": "Was Your Smart Phone on the Leaked FBI List?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "e765a2cc-6a57-4c0b-b1c3-11b16fced931",
+            "label": "Google and VirusTotal: A win for the security industry",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "54b463ce-fecb-4ed7-b38b-83a548bb0f5f",
+            "label": "UDID Primer: Breaking down Apple\u2019s leaky situation",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "7a9b6ff7-b963-44aa-a4ba-6ed80ffd9eb8",
+            "label": "Four Things That Won\u2019t Bring the Internet Down and Why",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "52785d74-1d64-4948-a323-74d57ca81158",
+            "label": "The Importance of Continuous Monitoring",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "6695eea2-e3b1-46f6-bf64-700b21b58b61",
+            "label": "The hidden cost of the \"hottest gadget\"",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "e4b8fc59-6c17-412a-99bb-5a1976168f96",
+            "label": "Jelly Bean looks sexy. But is it going to help BYOD?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "36cb1cfd-951e-471f-9421-aa895863f337",
+            "label": "10 Steps to Securing Your Journey to the Cloud",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "abcabcee-f99b-4a86-863d-c4e593e8f70f",
+            "label": "Cloud \u2013 a Tipping Point for VDI Investment?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "1dbcea1b-f7f8-455a-b873-3b775d62d5e2",
+            "label": "Future of Cloud Computing with Dell, VMware, etc.",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "1cacfe7b-f5f4-4c4e-9e75-003f07e94ba6",
+            "label": "Top 30 Most Popular Passwords Stolen from LinkedIn",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "81b18775-bf8f-4876-bbb1-f9224f308a91",
+            "label": "Trend Micro Recognized as #1 in Cloud Security",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "66883cc8-ca7d-4926-afe9-2dba0b0f35de",
+            "label": "Hacking the Mexican Pork Cloud Conspiracy ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "35a8dd8f-72f8-49c7-8740-0aa2b1ef8758",
+            "label": "How to Stay Safe as Online Coronavirus Scams Spread",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "67c2084c-8946-4886-b0d3-5157c5d928b6",
+            "label": "Smart Check Validated for New Bottlerocket OS",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "ab8fe465-8b67-4c8f-a7fd-ba46ff3038cf",
+            "label": "Trend Micro COO: Customer Commitment During COVID-19",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "10dac97b-b6e3-47b1-a64a-63d67368fc23",
+            "label": "Trend Micro Cloud App Security Blocked Email Threats ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "e37be596-674b-4600-b1d3-23d388631984",
+            "label": "Suddenly Teleworking, Securely",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "3ad0c5bf-083e-40ab-839c-a1497258373f",
+            "label": "Operation Overtrap Targets Japanese Online Banking ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "0b8f6c4e-2dd0-48d5-b0ca-33a0e0fef1af",
+            "label": "Trend Micro Detects 10% Rise in Ransomware in 2019",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "ca30fd1e-ebfc-4587-ad71-9ba30da2da81",
+            "label": "ZDI Bug Hunters Rake in $1.5 M",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "64257343-d091-46a5-aa8a-59cc8d72f64b",
+            "label": "Hackers Expand, Trend Micro Blocks 52 Billion Threats ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "a022c830-fafc-4c78-b738-033e9c21a15f",
+            "label": "INTERPOL Collaboration Reduces Cryptojacking by 78%",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "b8af7a95-1bb3-489e-a697-31a3d582a908",
+            "label": "WordPress Accounts Compromised; Facebook Settles Case",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "b4dcc6ec-1369-4d2f-87c8-1786e9e18679",
+            "label": "Free tool to patch against Vulnerability CVE-2020-0601",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "59e8b86e-8730-4b87-a070-6f52e9c6d4ff",
+            "label": "INTERPOL Collaboration Reduces Cryptojacking by 78% ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "33a2fcca-58cb-4c96-861b-d429f97648a5",
+            "label": "Trend Micro Creates Factory Honeypot to Trap Attackers",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "611eb296-7f36-4669-a67c-ecc1241ea43a",
+            "label": "Elevated Cyber Attack Risk; Wyze Exposes Customer Info",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "a9d8f912-a8cf-479a-ade4-3f81f3903cd8",
+            "label": "A New Playground for Cybercrime: Software Development",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "fdf4b133-a83f-4574-9019-cb31806a63e5",
+            "label": "Right Here, Right Now.... Not Yet",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "fd6d6ecb-15de-4494-b6d3-bd981a5f0ee7",
+            "label": "Consumerization U. Day 1: Consumerization is Disruptive",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "40c024a5-731e-46b6-b333-345c2190fd78",
+            "label": "Should We Control a Submarine From the Cloud? ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "b088b2e8-6a71-48c4-a077-fb9227a497b9",
+            "label": "Embrace Consumerization. Unlock Opportunity.",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "b5c83f10-de99-460a-8aa8-f972987b0ca9",
+            "label": "Gartner 2011 Hype Cycle for Cloud Computing ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "eb652e3d-39a0-4f2d-ab23-6864a614f493",
+            "label": "Matching Security to Your Cloud",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "9a348beb-ea27-4510-966e-21f9c0debc70",
+            "label": "Agentless Security Gets an \u201cA\u201d on Its Report Card",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "d57bc88c-7323-48ec-9acd-d0970c8f2751",
+            "label": "Why does VMware Downplay its PacketMotion Acquisition?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "4d9ec6c2-9cd3-4116-beee-d865c538a6ce",
+            "label": "\u201cHey, you, get off of iCloud\u201d",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "6b964606-f7e1-4e2d-a7f8-e4446fd32f61",
+            "label": "\"Hey, You, Get Off of iCloud!\"",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "c3d43afe-f555-4874-83fe-fa09f179574d",
+            "label": "Split Personality and The Mobility War!",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "52d3f0c5-150e-47f0-8332-c6df711407f8",
+            "label": "Ambient Cloud News: Reverse-engineered Skype protocol ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "0f58f580-4ed1-4093-bffb-87bff545824e",
+            "label": "The State of Cloud and Virtualization Security",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "237d1fc4-5536-44fa-8580-22b701ac36a4",
+            "label": "Riding the Consumerization Wave",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "fc3c4917-45f4-4d74-806e-3e4f775281b0",
+            "label": "Yes, Virginia, Consumerization is real",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "9e8badbe-c47c-44c9-a80b-56295f14d86f",
+            "label": "To embrace consumerization, embrace consumers",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "62a89c5d-5ced-48d0-b9a1-8d4c81b5fc4a",
+            "label": "Sleeping with the enemy?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "7462483d-2603-4343-90eb-857ea9b44da3",
+            "label": "What is NFC and What Are The Risks?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "a0fc4811-a399-498f-aa2d-e14fb9c539a2",
+            "label": "Encryption is Not Enough for Cloud Security",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "b59f8e92-856f-4c39-9e3a-ae4486f7639a",
+            "label": "Trend Micro Consumerization Report 2011",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "24ae723e-3490-47e5-abf0-758cb188818a",
+            "label": "What Are the True Dangers of the Cloud?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "aa75f8c6-ebd0-48f5-815f-62a74dfb3b13",
+            "label": "To Jailbreak or Not to Jailbreak? That is the Question",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "2578d6da-5692-4030-a68f-e0ae45c72a16",
+            "label": "BlackSquid Infects Servers and Drives, 8 Exploits Used",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "9be10a80-30f7-4497-a06a-823015869d5c",
+            "label": "Hiding in Plain Text: Jenkins Plugin Vulnerabilities",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "9a24dd67-9843-4bc4-bdb1-83f4d5435d68",
+            "label": "Security When Launching Big Data Initiatives",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "cf077973-3165-4ede-ae97-f8972b4d57f9",
+            "label": "8 Cloud Myths Debunked",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "6ffe7588-2c42-4c63-be09-b6d1f52fe352",
+            "label": "Perspectives Summary \u2013 What You Said",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "f5566450-61fb-449b-b0b1-578fb717d83b",
+            "label": "Principles of a Cloud Migration",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "590523aa-b2de-48f9-b83d-5eb9be41ac32",
+            "label": "CVE-2020-1380: Analysis of Recently Fixed IE Zero-Day",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "43d03e0f-d1f1-455f-8c49-ee35723c22a4",
+            "label": "Probing Attempts on Home Routers Increase in 1H 2020",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "0a2247ce-d67e-4d90-96ba-34b056d25052",
+            "label": "Shift Well-Architecture Left. Security Will Follow",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "ba7e567b-c1bc-463c-80be-837bc545862a",
+            "label": "Black Hat Trip Report \u2013 Trend Micro",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "fc2b9ded-9ea3-4a1c-b79a-217c2740c3d3",
+            "label": "Connected Security Solutions Help City of Tyler",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "b9d6061c-a2c4-46fc-a55d-65d9c7a09128",
+            "label": "Fixing cloud migration: What goes wrong and why?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "2d4f6c81-c6ef-4d51-96e5-c155d0bc740a",
+            "label": "This Week in Security News: 07/10/2020",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "2fc1e65c-1304-43c1-b534-9ffbefc0fea4",
+            "label": "This Week in Security News: 07/03/2020",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "61b31c70-eeb9-439c-bf9d-75e6a26d14e8",
+            "label": "Employee Security Training is Vital to Remote Success",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "14b02373-2023-4b01-a6a9-b0c6e2dc3cce",
+            "label": "Cloud Security Is Simple, Absolutely Simple.",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "08f9b314-2e93-4cac-9a3b-66c272005f96",
+            "label": "It\u2019s time to put the brakes on connected car threats",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "6ad496f0-f03b-46ad-aa22-8c57ba8ce54d",
+            "label": "Twitter Hacked in Bitcoin Scam",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "7be937f2-a275-4f32-9b2d-04bacdcd5fd0",
+            "label": "Fixes for \u2018Wormable\u2019 Windows RCE in July Patch Tuesday",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "8c5ccf2b-1b27-49a6-9e75-58df7baa854d",
+            "label": "Updates on Quickly-Evolving ThiefQuest macOS Malware",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "8ee09a95-8fda-4d68-af11-58d1cb084e85",
+            "label": "Mirai Botnet Attack IoT Devices via CVE-2020-5902",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "94c71474-535a-434e-821f-9eebb4541fa4",
+            "label": "Water Nue Phishing Targets Execs\u2019 Office 365 Accounts",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "f02e39c3-c945-469c-89a7-942a31c89684",
+            "label": "Patch Tuesday: Fixes for Important Vulnerabilities",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "4a06ab70-c992-4dda-a1f4-a53d8120695d",
+            "label": "XCSSET Mac Malware: Infects Xcode Projects, Uses 0Days",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Articles, News, Reports",
+            "id": "a59f818b-e829-46d8-85ea-1e17f8fb9bb2",
+            "label": "How Unsecure gRPC Implementations Can Compromise APIs",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "id": "Latest News",
+            "isClusterNode": true,
+            "label": "Latest News",
+            "rel_size": 180.0,
+            "size": 180,
+            "color": "#FFFFFF"
+        },
+        {
+            "cluster_id": "Latest News",
+            "id": "626038d5-421f-4589-b54f-7f2020879df1",
+            "label": "Patch Tuesday: Fixes for LNK, RDP, and Trident",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Latest News",
+            "id": "d2c6fe77-ff63-4218-b62c-3755dbf19ff4",
+            "label": "January Patch Tuesday Contains Fixes for DHCP ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Latest News",
+            "id": "483e99c2-8b44-4991-872f-da9be72afc16",
+            "label": "Patch Tuesday: Fixes for 'Wormable' Flaw, Zero-Day",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Latest News",
+            "id": "50bcca3d-893b-4551-8538-8ac9496bbd16",
+            "label": "Patch Tuesday: Fixes for Two Exploited Vulnerabilities",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Latest News",
+            "id": "d9ed2614-d768-47b6-8ba8-b29edce4c304",
+            "label": "August Patch Tuesday: A Tale of Two Zero-Days",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Latest News",
+            "id": "c197f269-e98b-4b84-881f-e2fdbff1bf76",
+            "label": "September Patch Tuesday: Windows Fixes ALPC Bug",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Latest News",
+            "id": "4da03957-c93d-40ea-8802-24cb4d1bc46b",
+            "label": "Patch Tuesday Fixes Win32k, Windows DNS Server Flaws",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Latest News",
+            "id": "37813a81-24e6-484c-8fcc-2477c639502e",
+            "label": "August Patch Tuesday: Fixes for \u2018Wormable\u2019 Flaws",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Latest News",
+            "id": "cc0a913e-0457-4eb4-a004-8d1ff80423e9",
+            "label": "Patch Tuesday: LNK, Microsoft Word, SMBv3 Gets Patched",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Latest News",
+            "id": "2c3f3c5c-45a7-4a16-8a94-3a1369d196bf",
+            "label": "Patch Tuesday: More Fixes for SharePoint, TLS, Runtime",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Latest News",
+            "id": "e0ce00e5-871a-4d49-a18f-fdc70cef352b",
+            "label": "December Patch Tuesday: Fixes for components, RDP",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Latest News",
+            "id": "edc5e570-fe63-41a4-ae2e-632aab62a959",
+            "label": "September Patch Tuesday: RDP Vulns and Zero-Days",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Latest News",
+            "id": "2746f7d6-ced7-439f-8ef3-0f9fbe17278b",
+            "label": "February Patch Tuesday: Batch Includes 77 Updates",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Latest News",
+            "id": "ba296b96-af67-4687-8ff4-3e29769c17a3",
+            "label": "Short October Patch Tuesday: 9 Critical Fixes Featured",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Latest News",
+            "id": "2c0af65e-fc69-4e9b-8514-9d4229f8259d",
+            "label": "November Patch Tuesday: 74 Fixes Before Major Update",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Latest News",
+            "id": "3a598bfc-e138-4d7e-a3e5-d482886cba0f",
+            "label": "Patch Tuesday: Fixes for LNK, SMB, and SharePoint Bugs",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Latest News",
+            "id": "2d4f6c81-c6ef-4d51-96e5-c155d0bc740a",
+            "label": "This Week in Security News: 07/10/2020",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Latest News",
+            "id": "2fc1e65c-1304-43c1-b534-9ffbefc0fea4",
+            "label": "This Week in Security News: 07/03/2020",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Latest News",
+            "id": "6ad496f0-f03b-46ad-aa22-8c57ba8ce54d",
+            "label": "Twitter Hacked in Bitcoin Scam",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Latest News",
+            "id": "7be937f2-a275-4f32-9b2d-04bacdcd5fd0",
+            "label": "Fixes for \u2018Wormable\u2019 Windows RCE in July Patch Tuesday",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Latest News",
+            "id": "f02e39c3-c945-469c-89a7-942a31c89684",
+            "label": "Patch Tuesday: Fixes for Important Vulnerabilities",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "id": "Smart Home",
+            "isClusterNode": true,
+            "label": "Smart Home",
+            "rel_size": 180.0,
+            "size": 180,
+            "color": "#FFFFFF"
+        },
+        {
+            "cluster_id": "Smart Home",
+            "id": "7e49941d-ae8d-40a3-90cd-71c7c9b581cb",
+            "label": "New Mirai Variant Uses Multiple Exploits",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Smart Home",
+            "id": "cdc51672-5bfb-40ed-8295-7888c125ac61",
+            "label": "Exploit Kit \"Novidade\" Found Targeting Home Routers",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Smart Home",
+            "id": "97f1768f-861c-4544-a021-e3541e295fb3",
+            "label": "Zero-Day Vulnerability Findings, Mobile Phishing Scams",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "id": "Cyber Threats",
+            "isClusterNode": true,
+            "label": "Cyber Threats",
+            "rel_size": 180.0,
+            "size": 180,
+            "color": "#FFFFFF"
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "426427c3-cb87-4401-b57d-01de89b368e2",
+            "label": "New Trend Micro XDR Center; EU 5G Cybersecurity Risks",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "67466d2e-9ee1-4aad-ae56-725f7445a4e2",
+            "label": "Accelerating PCI Data Security Standard Projects ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "01ce7e9a-18a5-4cfe-bafa-23e0ef8b0199",
+            "label": "Pwn2Own Adds Industrial Control Systems to Contest ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "d6c01eea-261b-49a3-9005-c9e4acf48722",
+            "label": "Multistage Attack Delivers BillGates/Setag Backdoor",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "a033d862-2fa1-47b4-a43c-08697b20e980",
+            "label": "XDR Needs Network Data and Here's Why",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "7025407b-0e47-44b8-9fda-be467b7bebda",
+            "label": "Digital skimmers: Keeping card details safe online",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "59f2bacb-d2b0-4fac-9e32-30e6d6c9543c",
+            "label": "Magecart Attacks and Is Your Smart TV Spying on You?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "ded6c5b9-5be3-456d-b7ea-d21a1d2fc056",
+            "label": "Retail Cyberattacks Set to Soar During 2019 Holidays",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "7303920f-6963-4711-9fc7-b40658ca92e7",
+            "label": "New SLUB Backdoor Uses GitHub, Communicates via Slack",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "be1d324b-6a5a-4986-a58f-93e893733014",
+            "label": "The Summit of Cybersecurity Sits Among the Clouds",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "51ad1d96-9b52-4c9b-ba54-2450d1257e3c",
+            "label": "AESDDoS Botnet, Containers, Exposed Docker APIs",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "7e49941d-ae8d-40a3-90cd-71c7c9b581cb",
+            "label": "New Mirai Variant Uses Multiple Exploits",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "b5e39a82-8a18-4476-b94e-cdcd64cca8a9",
+            "label": "AESDDoS Botnet Exploits CVE-2019-3396 to Perform RCE",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "a6bf45d9-b022-452d-be31-d783263abe63",
+            "label": "Miori IoT Botnet Delivered via ThinkPH Exploit",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "dd1341d0-9244-4fa0-ae13-85bb031964b9",
+            "label": "Perl-Based Shellbot Targets Organizations via C&C",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "34801fdb-11ef-428a-8713-993a34872320",
+            "label": "New File Types Emerge in Malware Spam Attachments",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "b0a95890-bcdf-4f97-a119-58ee2fb030e9",
+            "label": "Phishing Attack Uses SingleFile in Malicious Log-ins",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "a050b006-97a9-4236-934a-2026ede4250b",
+            "label": "Brazilian Hackers Target IoT Devices With Malware",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "e79af3ff-e8c5-4f49-b16f-1cf68ada5e6c",
+            "label": "Cryptocurrency Miner Script Found on AOL Ad Platform",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "00ab7065-071f-4e41-8dc1-c0942beba859",
+            "label": "Challenges in Securing Connected Hospitals",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "16b49150-077d-4552-8f0f-1dc8ce3cf820",
+            "label": "Mirai-like Scanning Detected in China, Targets Brazil",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "78e0790b-d48a-4be1-ab23-cf28c5331fdd",
+            "label": "HiddenMiner Android Malware Can Cause Device Failure",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "53f48391-657f-46a5-9e4e-7cafa40ea6ee",
+            "label": "Viro Botnet Ransomware Breaks Through",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "cdc51672-5bfb-40ed-8295-7888c125ac61",
+            "label": "Exploit Kit \"Novidade\" Found Targeting Home Routers",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "1e1ef8f8-fbd9-4fec-bd26-5925633d4af1",
+            "label": "Telecom Crimes Against the IoT and 5G",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "efbeaf8b-fd79-453a-a165-d2fc7133c5dc",
+            "label": "Phishing Campaign Steals Credentials Via Watering Hole",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "16c1b6ff-ab15-427e-bf37-1554661b6b0f",
+            "label": "Fake Voice Apps on Google Play, Botnet Development",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "786aaacf-55df-499e-b448-f98a5140e382",
+            "label": "Pop-ups and Sites Push Botnets, Miners and Ransomware",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "35954a7f-c176-41c6-94d0-0a8c059b7bdf",
+            "label": "KillDisk Variant Hits Latin American Financial Groups",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "d39cb227-7ca6-41a4-8a6d-0dde3b1ce765",
+            "label": "Fileless Banking Trojan Downloads Info Stealers",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "cc8feef6-a7d7-4110-8d28-bfd3142f22a8",
+            "label": "In Identity Theft the Target is You!",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "a9418221-c9a8-4b6a-938a-87dddf2a1da7",
+            "label": "Tackling the BEC Epidemic in Partnership with INTERPOL",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "3f5de38f-f886-4993-a65b-92acf96c6785",
+            "label": "Answering IoT Security Questions for CISOs",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "5ca328df-ca36-4890-8566-37f4e77572e3",
+            "label": "Partnership Advances DevSecOps, Cybersecurity Issues ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "bc420301-7cff-4a51-8cf5-c07fe031e085",
+            "label": "The Shared Responsibility Model",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "de9aeb7b-a20b-4850-839b-07647070bb8e",
+            "label": "Android GIF Hacks; Hospital Network Vulnerabilities",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "c69db56f-3c1d-40d9-b68a-eb93d6bd24d7",
+            "label": "Trend Micro Acquires Cloud Conformity; iOS App Removal",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "97f1768f-861c-4544-a021-e3541e295fb3",
+            "label": "Zero-Day Vulnerability Findings, Mobile Phishing Scams",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "5ebfbcca-92c1-43d5-95df-06c909d072ee",
+            "label": "Why Should CISOs Care About XDR?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "b7491b29-9dfb-40b2-9490-18f53f704514",
+            "label": "Fake Apps on iOS, Google Play; Social Media Security ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "87a1ea4f-6752-4252-a862-7b88a4ffb35d",
+            "label": "DevOps Implementation Concerns and Malware Variants",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "b62587d9-7afe-4fba-a045-1e5f10036a9a",
+            "label": "How Do Threats Align With Detection And Solutions?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "c4a5aecf-8d35-40d3-a195-a8669041ceb5",
+            "label": "XDR: The Best Remedy As Attackers Seek To Evade EDR",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "8b9bf3bb-38bd-48cc-84e3-cd754bf7bd37",
+            "label": "Trend Micro Named Endpoint Protection Platforms Leader",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "fbe74d21-0758-40a8-b8b4-c32ef45ff4f2",
+            "label": "How Can I Keep My Kids Safe Online?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "59420212-a4c0-4c4b-b426-6371cc17c12d",
+            "label": "Trend Micro Unveils New Cloud Security Platform",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "75dc78b3-c8cb-4ddd-a047-f1e8c172aec9",
+            "label": "Skimming and Phishing Scams Ahead of Black Friday ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "7b37addd-65fc-42d8-976f-2a09ea8f34fa",
+            "label": "Why MSPs Must Go Beyond Endpoint Detection, Response",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "08fb4842-5ae3-4218-a98b-f13814d28b88",
+            "label": "APT33 Botnets Used for Extreme Narrow Targeting ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "8fb95012-e970-41a3-9c91-0256f0d35772",
+            "label": "Trend Micro Selected as Launch Partner and more",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "5fb0ebdf-b5ad-4acb-bd48-fb9efa123fdc",
+            "label": "Microsoft vs. Amazon in the Cloud and more",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "b2aa9638-5b04-4085-b932-a3dd78bc86bc",
+            "label": "TweetChat: Advanced Persistent Threats",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "02fa7b4e-b1fe-4bcd-8cf1-77723598d35b",
+            "label": "Why the Silicon Valley Moved East",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "52785d74-1d64-4948-a323-74d57ca81158",
+            "label": "The Importance of Continuous Monitoring",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "35a8dd8f-72f8-49c7-8740-0aa2b1ef8758",
+            "label": "How to Stay Safe as Online Coronavirus Scams Spread",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "e37be596-674b-4600-b1d3-23d388631984",
+            "label": "Suddenly Teleworking, Securely",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "64257343-d091-46a5-aa8a-59cc8d72f64b",
+            "label": "Hackers Expand, Trend Micro Blocks 52 Billion Threats ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "611eb296-7f36-4669-a67c-ecc1241ea43a",
+            "label": "Elevated Cyber Attack Risk; Wyze Exposes Customer Info",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "7269a0f1-18da-4180-a9ee-93b5b0c08b82",
+            "label": "Security Dive: Devices Supporting SCPI, VISA Protocols",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "4d9ec6c2-9cd3-4116-beee-d865c538a6ce",
+            "label": "\u201cHey, you, get off of iCloud\u201d",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "6b964606-f7e1-4e2d-a7f8-e4446fd32f61",
+            "label": "\"Hey, You, Get Off of iCloud!\"",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "52d3f0c5-150e-47f0-8332-c6df711407f8",
+            "label": "Ambient Cloud News: Reverse-engineered Skype protocol ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "b59f8e92-856f-4c39-9e3a-ae4486f7639a",
+            "label": "Trend Micro Consumerization Report 2011",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "24ae723e-3490-47e5-abf0-758cb188818a",
+            "label": "What Are the True Dangers of the Cloud?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "8ec2e49e-663a-4b0d-aa21-8b74301f982a",
+            "label": "Attacks and Techniques Used Against WordPress Sites",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "2578d6da-5692-4030-a68f-e0ae45c72a16",
+            "label": "BlackSquid Infects Servers and Drives, 8 Exploits Used",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "6eb36ddf-49bf-423b-83d7-69b6650dbad9",
+            "label": "Mac Malware, Spoofs App, Steals User Information",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "bb417b75-12a7-4aff-92b6-26e3563345cb",
+            "label": "Testing 'Graph Hash\u2019 in Malware Classification",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "7b2d19bd-d169-4b3d-a6f5-0143c22e2b54",
+            "label": "Skidmap Malware Uses Rootkit to Hide Mining Payload",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "22217e1e-3e2e-41f3-b4b6-526d83b4bff9",
+            "label": "Asruex Backdoor Infects Files Via Old Vulnerabilities",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "3f628ea8-4963-43d1-8509-aa11a6061671",
+            "label": "Heatstroke Used Multistage Phishing For Info Theft",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "1d3491d8-e190-48b7-8bc1-d919b30f0ede",
+            "label": "Analysis: New Remcos RAT Arrives Via Phishing Email",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "b6f4ee07-5402-4db6-b64a-eb0f1c9dfd03",
+            "label": "Digmine Miner Spreading via Facebook Messenger",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "30530030-4335-4820-9a71-0cbfb5f09815",
+            "label": "How HTML Attachments and Phishing Are Used In BEC",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "2a46dbda-c9c1-414a-8069-146057c71fc0",
+            "label": "qkG Filecoder: Document-Encrypting Ransomware",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "a0658556-c227-42fa-875f-9c6d481a94c2",
+            "label": "New GnatSpy Mobile Malware Family Discovered",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Cyber Threats",
+            "id": "31ae8ce5-45c7-4a8f-98b4-fcebca03e2bb",
+            "label": "New Magecart Attack Target US Local Government Services",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "id": "Mobile",
+            "isClusterNode": true,
+            "label": "Mobile",
+            "rel_size": 180.0,
+            "size": 180,
+            "color": "#FFFFFF"
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "658821aa-0dc9-4e95-ba6e-5dcf94e40cde",
+            "label": "LLDBFuzzer: Debugging and Fuzzing the Apple Kernel",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "cc47aa8d-e11e-482b-b84e-59ee72a6fbce",
+            "label": "Ambient Cloud: Two approaches to securing the cloud",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "db8abea3-c5eb-4d52-9e94-a18d38c4419e",
+            "label": "Windows, Android Users Targeted by Maikspy Spyware",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "f88c13f0-a95b-47a7-b50b-fdce44b75372",
+            "label": "XLoader Disguises as Android Apps, Has FakeSpy Links",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "e0b8f77b-4d4d-40b5-906e-04776b809f8d",
+            "label": "Secure Your Smartphone with Preventative Measures",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "d360058c-19ae-4495-b671-1e25036d19a7",
+            "label": "Phishers Use AES Encryption, Goes After Apple IDs",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "78e0790b-d48a-4be1-ab23-cf28c5331fdd",
+            "label": "HiddenMiner Android Malware Can Cause Device Failure",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "6020657a-ba50-4fd3-b395-3ef2a06e9f25",
+            "label": "FakeSpy Targets Japanese and Korean-Speaking Users",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "1e1ef8f8-fbd9-4fec-bd26-5925633d4af1",
+            "label": "Telecom Crimes Against the IoT and 5G",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "efbeaf8b-fd79-453a-a165-d2fc7133c5dc",
+            "label": "Phishing Campaign Steals Credentials Via Watering Hole",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "16c1b6ff-ab15-427e-bf37-1554661b6b0f",
+            "label": "Fake Voice Apps on Google Play, Botnet Development",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "2c98fc4c-299a-4c24-b822-4ab7434c7f6a",
+            "label": "Examining XLoader, FakeSpy, and the Yanbian Gang",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "786aaacf-55df-499e-b448-f98a5140e382",
+            "label": "Pop-ups and Sites Push Botnets, Miners and Ransomware",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "84830460-d784-4be1-a858-116e7a75112a",
+            "label": "Deciphering Confucius\u2019 Cyberespionage Operations",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "fbe74d21-0758-40a8-b8b4-c32ef45ff4f2",
+            "label": "How Can I Keep My Kids Safe Online?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "cfa96b20-1dfd-42ce-ab32-d095dfe8c61e",
+            "label": "Stalking the Stalkerware",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "aa019925-ec31-43fb-a6cd-87d2f4f09079",
+            "label": "Who is responsible for security in the Ambient Cloud?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "bcc0e8ac-3ef8-4d74-b73b-f6e2ef1a044f",
+            "label": "25 Billion Cloud-Connected Devices to Come",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "4fafbcb2-7f15-44c4-90d2-c4c173a1e44b",
+            "label": "Was Your Smart Phone on the Leaked FBI List?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "6695eea2-e3b1-46f6-bf64-700b21b58b61",
+            "label": "The hidden cost of the \"hottest gadget\"",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "e4b8fc59-6c17-412a-99bb-5a1976168f96",
+            "label": "Jelly Bean looks sexy. But is it going to help BYOD?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "abcabcee-f99b-4a86-863d-c4e593e8f70f",
+            "label": "Cloud \u2013 a Tipping Point for VDI Investment?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "b8af7a95-1bb3-489e-a697-31a3d582a908",
+            "label": "WordPress Accounts Compromised; Facebook Settles Case",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "fd6d6ecb-15de-4494-b6d3-bd981a5f0ee7",
+            "label": "Consumerization U. Day 1: Consumerization is Disruptive",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "b088b2e8-6a71-48c4-a077-fb9227a497b9",
+            "label": "Embrace Consumerization. Unlock Opportunity.",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "4d9ec6c2-9cd3-4116-beee-d865c538a6ce",
+            "label": "\u201cHey, you, get off of iCloud\u201d",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "6b964606-f7e1-4e2d-a7f8-e4446fd32f61",
+            "label": "\"Hey, You, Get Off of iCloud!\"",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "c3d43afe-f555-4874-83fe-fa09f179574d",
+            "label": "Split Personality and The Mobility War!",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "237d1fc4-5536-44fa-8580-22b701ac36a4",
+            "label": "Riding the Consumerization Wave",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "fc3c4917-45f4-4d74-806e-3e4f775281b0",
+            "label": "Yes, Virginia, Consumerization is real",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "9e8badbe-c47c-44c9-a80b-56295f14d86f",
+            "label": "To embrace consumerization, embrace consumers",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "62a89c5d-5ced-48d0-b9a1-8d4c81b5fc4a",
+            "label": "Sleeping with the enemy?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "7462483d-2603-4343-90eb-857ea9b44da3",
+            "label": "What is NFC and What Are The Risks?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "b59f8e92-856f-4c39-9e3a-ae4486f7639a",
+            "label": "Trend Micro Consumerization Report 2011",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "aa75f8c6-ebd0-48f5-815f-62a74dfb3b13",
+            "label": "To Jailbreak or Not to Jailbreak? That is the Question",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "49b2fbbc-754b-44a3-9117-dccdca2d6b86",
+            "label": "Mobile Campaign Start Targeted Attacks Using CallerSpy",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "d1aa1b44-f7bd-4eeb-b42e-6aebb37410b4",
+            "label": "Adware Apps Seen With Optimized Evasion Features",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "82dc4556-1410-4afc-9dba-14e105764f24",
+            "label": "Patched GIF Processing Vuln Still Affects Mobile Apps",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "8cb35574-a4cf-4f6d-b01e-eb540c2552a0",
+            "label": "SLocker Mobile Ransomware Starts Mimicking WannaCry",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "a0658556-c227-42fa-875f-9c6d481a94c2",
+            "label": "New GnatSpy Mobile Malware Family Discovered",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "0682798c-b7f6-43ed-8d6d-57b4977a8ab4",
+            "label": "Android Mobile Ransomware: Bigger, Badder, Better?",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "6ffe7588-2c42-4c63-be09-b6d1f52fe352",
+            "label": "Perspectives Summary \u2013 What You Said",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "54e36bdc-7073-4174-938e-60ccf374303b",
+            "label": "Phishing Attacks from Earth Empusa Reveal ActionSpy ",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "9285e1dd-836f-47d9-a32e-5a9c7c7e1eef",
+            "label": "A Beer-Side Video Chat about Consumerization",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "2d4f6c81-c6ef-4d51-96e5-c155d0bc740a",
+            "label": "This Week in Security News: 07/10/2020",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "2fc1e65c-1304-43c1-b534-9ffbefc0fea4",
+            "label": "This Week in Security News: 07/03/2020",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "61b31c70-eeb9-439c-bf9d-75e6a26d14e8",
+            "label": "Employee Security Training is Vital to Remote Success",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "08f9b314-2e93-4cac-9a3b-66c272005f96",
+            "label": "It\u2019s time to put the brakes on connected car threats",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        },
+        {
+            "cluster_id": "Mobile",
+            "id": "6ad496f0-f03b-46ad-aa22-8c57ba8ce54d",
+            "label": "Twitter Hacked in Bitcoin Scam",
+            "rank": 0.005440751059506184,
+            "degrees": 58
+        }
+    ],
+    "edge": [
+        {
+            "source": "Mobile",
+            "target": "d1aa1b44-f7bd-4eeb-b42e-6aebb37410b4"
+        },
+        {
+            "source": "Mobile",
+            "target": "54e36bdc-7073-4174-938e-60ccf374303b"
+        },
+        {
+            "source": "Mobile",
+            "target": "abcabcee-f99b-4a86-863d-c4e593e8f70f"
+        },
+        {
+            "source": "Mobile",
+            "target": "2c98fc4c-299a-4c24-b822-4ab7434c7f6a"
+        },
+        {
+            "source": "Mobile",
+            "target": "1e1ef8f8-fbd9-4fec-bd26-5925633d4af1"
+        },
+        {
+            "source": "Mobile",
+            "target": "fc3c4917-45f4-4d74-806e-3e4f775281b0"
+        },
+        {
+            "source": "Mobile",
+            "target": "2fc1e65c-1304-43c1-b534-9ffbefc0fea4"
+        },
+        {
+            "source": "Mobile",
+            "target": "6020657a-ba50-4fd3-b395-3ef2a06e9f25"
+        },
+        {
+            "source": "Mobile",
+            "target": "6b964606-f7e1-4e2d-a7f8-e4446fd32f61"
+        },
+        {
+            "source": "Mobile",
+            "target": "7462483d-2603-4343-90eb-857ea9b44da3"
+        },
+        {
+            "source": "Mobile",
+            "target": "aa019925-ec31-43fb-a6cd-87d2f4f09079"
+        },
+        {
+            "source": "Mobile",
+            "target": "786aaacf-55df-499e-b448-f98a5140e382"
+        },
+        {
+            "source": "Mobile",
+            "target": "d360058c-19ae-4495-b671-1e25036d19a7"
+        },
+        {
+            "source": "Mobile",
+            "target": "c3d43afe-f555-4874-83fe-fa09f179574d"
+        },
+        {
+            "source": "Mobile",
+            "target": "237d1fc4-5536-44fa-8580-22b701ac36a4"
+        },
+        {
+            "source": "Mobile",
+            "target": "f88c13f0-a95b-47a7-b50b-fdce44b75372"
+        },
+        {
+            "source": "Mobile",
+            "target": "e0b8f77b-4d4d-40b5-906e-04776b809f8d"
+        },
+        {
+            "source": "Mobile",
+            "target": "6695eea2-e3b1-46f6-bf64-700b21b58b61"
+        },
+        {
+            "source": "Mobile",
+            "target": "a0658556-c227-42fa-875f-9c6d481a94c2"
+        },
+        {
+            "source": "Mobile",
+            "target": "8cb35574-a4cf-4f6d-b01e-eb540c2552a0"
+        },
+        {
+            "source": "Mobile",
+            "target": "b088b2e8-6a71-48c4-a077-fb9227a497b9"
+        },
+        {
+            "source": "Mobile",
+            "target": "b8af7a95-1bb3-489e-a697-31a3d582a908"
+        },
+        {
+            "source": "Mobile",
+            "target": "62a89c5d-5ced-48d0-b9a1-8d4c81b5fc4a"
+        },
+        {
+            "source": "Mobile",
+            "target": "fbe74d21-0758-40a8-b8b4-c32ef45ff4f2"
+        },
+        {
+            "source": "Mobile",
+            "target": "fd6d6ecb-15de-4494-b6d3-bd981a5f0ee7"
+        },
+        {
+            "source": "Mobile",
+            "target": "efbeaf8b-fd79-453a-a165-d2fc7133c5dc"
+        },
+        {
+            "source": "Mobile",
+            "target": "9e8badbe-c47c-44c9-a80b-56295f14d86f"
+        },
+        {
+            "source": "Mobile",
+            "target": "08f9b314-2e93-4cac-9a3b-66c272005f96"
+        },
+        {
+            "source": "Mobile",
+            "target": "16c1b6ff-ab15-427e-bf37-1554661b6b0f"
+        },
+        {
+            "source": "Mobile",
+            "target": "4d9ec6c2-9cd3-4116-beee-d865c538a6ce"
+        },
+        {
+            "source": "Mobile",
+            "target": "49b2fbbc-754b-44a3-9117-dccdca2d6b86"
+        },
+        {
+            "source": "Mobile",
+            "target": "bcc0e8ac-3ef8-4d74-b73b-f6e2ef1a044f"
+        },
+        {
+            "source": "Mobile",
+            "target": "0682798c-b7f6-43ed-8d6d-57b4977a8ab4"
+        },
+        {
+            "source": "Mobile",
+            "target": "84830460-d784-4be1-a858-116e7a75112a"
+        },
+        {
+            "source": "Mobile",
+            "target": "b59f8e92-856f-4c39-9e3a-ae4486f7639a"
+        },
+        {
+            "source": "Mobile",
+            "target": "cfa96b20-1dfd-42ce-ab32-d095dfe8c61e"
+        },
+        {
+            "source": "Mobile",
+            "target": "db8abea3-c5eb-4d52-9e94-a18d38c4419e"
+        },
+        {
+            "source": "Mobile",
+            "target": "4fafbcb2-7f15-44c4-90d2-c4c173a1e44b"
+        },
+        {
+            "source": "Mobile",
+            "target": "9285e1dd-836f-47d9-a32e-5a9c7c7e1eef"
+        },
+        {
+            "source": "Mobile",
+            "target": "6ffe7588-2c42-4c63-be09-b6d1f52fe352"
+        },
+        {
+            "source": "Mobile",
+            "target": "aa75f8c6-ebd0-48f5-815f-62a74dfb3b13"
+        },
+        {
+            "source": "Mobile",
+            "target": "e4b8fc59-6c17-412a-99bb-5a1976168f96"
+        },
+        {
+            "source": "Mobile",
+            "target": "cc47aa8d-e11e-482b-b84e-59ee72a6fbce"
+        },
+        {
+            "source": "Mobile",
+            "target": "2d4f6c81-c6ef-4d51-96e5-c155d0bc740a"
+        },
+        {
+            "source": "Mobile",
+            "target": "658821aa-0dc9-4e95-ba6e-5dcf94e40cde"
+        },
+        {
+            "source": "Mobile",
+            "target": "61b31c70-eeb9-439c-bf9d-75e6a26d14e8"
+        },
+        {
+            "source": "Mobile",
+            "target": "78e0790b-d48a-4be1-ab23-cf28c5331fdd"
+        },
+        {
+            "source": "Mobile",
+            "target": "82dc4556-1410-4afc-9dba-14e105764f24"
+        },
+        {
+            "source": "Mobile",
+            "target": "6ad496f0-f03b-46ad-aa22-8c57ba8ce54d"
+        }
+    ]
+}

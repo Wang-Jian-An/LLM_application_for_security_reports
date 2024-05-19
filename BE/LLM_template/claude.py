@@ -17,24 +17,20 @@ def messages_template(
         for index, one_text in enumerate(history)
     ]
 
-    # 加入參考資料
-    if system_reference:
-        messages = [
-            {
-                "role": "system",
-                "content": {
-                    "type": "text",
-                    "text": system_reference
-                }
-            },
-            *messages
-        ]
-
     body = {
         "messages": messages,
         "anthropic_version": anthropic_version,
-        "max_tokens": 4096
+        "max_tokens": 4096,
     }
-    body = str(body).replace("'", r'\"').replace(" ", "")
+
+    # 加入參考資料
+    if system_reference:
+        body = {
+            **body,
+            "system": system_reference
+        }
+
+
+    body = str(body).replace("'", r'\"')
     body = '--body "' + body + '"'
     return body
